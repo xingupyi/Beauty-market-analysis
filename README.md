@@ -52,16 +52,6 @@ main.py:  fetch.py ──► data/raw/<timestamp>/*.json ──► clean.py ─�
 
 `main.py` connects steps 3 to 5: `clean.py` returns a DataFrame and `main.py` passes it to `store.py`, so neither module depends on the other.
 
-## Route chosen, and why
-
-| Option | Verdict |
-| --- | --- |
-| TikTok Shop (original idea) | Rejected: its Terms of Service prohibit automated extraction without written approval, and it uses CAPTCHAs. |
-| Sephora | Not scraped: its Terms of Use prohibit scraping and data mining. Only used as a manual lookup for tier. |
-| HTML scraping with Playwright | Not needed: slower, and breaks when a site's design changes. |
-| Shopify `/products.json` | **Chosen:** a public JSON endpoint that Shopify storefronts expose. Structured data, no browser needed. |
-
-I found the endpoint by watching the Network tab in browser DevTools. `tools/find_json_routes.py` automates that discovery for sites that aren't on Shopify, but it isn't used by the pipeline.
 
 ## Brand selection
 
