@@ -1,0 +1,9 @@
+brand,domain,checked_on,platform_guess,shopify_feed,woo_store_api,robots_allows_feed,sephora_search,sold_at_sephora,suggested_include,terms_note
+ColourPop,colourpop.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=ColourPop,no,yes,TODO: read terms yourself
+Morphe,morphe.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=Morphe,no,yes,TODO: read terms yourself
+Florence by Mills,florencebymills.com,2026-11-20,shopify,no_empty,no_404,n/a,https://www.sephora.com/search?keyword=Florence+by+Mills,no,no,TODO: read terms yourself
+Frank Body,frankbody.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=Frank+Body,no,yes,TODO: read terms yourself
+Kylie Cosmetics,kyliecosmetics.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=Kylie+Cosmetics,yes,yes,TODO: read terms yourself
+Rhode,rhodeskin.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=Rhode,yes,yes,TODO: read terms yourself
+Fenty Beauty,fentybeauty.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=Fenty+Beauty,yes,yes,TODO: read terms yourself
+Glossier,glossier.com,2026-11-20,shopify,yes,no_404,yes,https://www.sephora.com/search?keyword=Glossier,yes,yes,TODO: read terms yourself

@@ -1,0 +1,8 @@
+2026-11-20 16:41:44,903 INFO    scraper.clean: Cleaned 5282 raw variant rows down to 5226
+2026-11-20 16:41:44,904 INFO    scraper.clean: Size parsed for 2% of rows
+2026-11-20 16:41:44,920 INFO    scraper.store: Saved 5226 variants as snapshot 1 in data/market.db
+2026-11-20 16:41:44,951 INFO    root: Finished: 5226 variants from 7 brands
+2026-11-20 17:22:41,127 INFO    scraper.clean: Cleaned 5282 raw variant rows down to 5226
+2026-11-20 17:22:41,127 INFO    scraper.clean: Size parsed for 6% of rows
+2026-11-20 17:22:41,146 INFO    scraper.store: Saved 5226 variants as snapshot 1 in data/market.db
+2026-11-20 17:22:41,178 INFO    root: Finished: 5226 variants from 7 brands
