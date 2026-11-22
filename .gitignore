@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+.ipynb_checkpoints/
+
+logs/
+
+#data
+data/raw/
+data/market.db
+data/variants_latest.csv
