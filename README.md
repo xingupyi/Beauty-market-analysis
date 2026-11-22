@@ -120,3 +120,97 @@ beauty-market-snapshot/
 - **Small sample:** 7 Shopify brands (3 mass, 4 prestige). Results describe these brands, not the whole beauty market, and exclude retailers like Sephora and Ulta.
 - **Binary tier:** retail channel can't capture brands positioned between mass and prestige.
 
+------------------------------------------------------------------------------------------------------------
+## Daily price tracker
+
+Every day, a GitHub Actions workflow re-runs the scraper, saves a snapshot of every product variant, compares it with each brand's last good day, and commits the results plus a "what changed" report back to this repo. If a site breaks, the run turns red and I get an email.
+
+**Latest report:** [`reports/CHANGES.md`](reports/CHANGES.md)
+
+### How a daily run works
+
+```
+GitHub schedule (14:37 UTC, backup 20:37 UTC)
+  └─► tracker/run.py
+        1. Skip if today already succeeded (runs.csv)
+        2. Scrape   → scraper/fetch.py   (same as Phase 1)
+        3. Clean    → scraper/clean.py   (same as Phase 1)
+        4. Per brand:
+             find its last good day        → tracker/compare.py
+             compare: new / changed / removed
+             health checks                 → tracker/checks.py
+        5. Save snapshot (passing brands only), append runs.csv and changes.csv
+        6. Write reports/CHANGES.md        → tracker/report.py
+        7. Exit 1 if any check failed
+  └─► workflow commits data + report, uploads raw JSON as a 14-day artifact,
+      then marks the run failed if step 7 said so
+```
+
+### Files
+
+| File | Role |
+| --- | --- |
+| `.github/workflows/daily-tracker.yml` | Schedule, environment setup, commit back, fail visibly |
+| `tracker/run.py` | Runs one day end to end; skips if today already succeeded |
+| `tracker/compare.py` | Saves the daily snapshot; matches variants by `(brand, variant_id)` against each brand's last good day |
+| `tracker/checks.py` | Decides whether a brand's data looks healthy |
+| `tracker/report.py` | Writes `reports/CHANGES.md` |
+
+### What gets saved
+
+| Output | Grows by | Contents |
+| --- | --- | --- |
+| `data/tracker/snapshots/YYYY-MM-DD.csv.gz` | 1 file per day | Every variant that day: IDs, names, category, price, "was" price, stock, size |
+| `data/tracker/changes.csv` | Rows appended | One row per new, changed or removed variant, with old and new values |
+| `data/tracker/runs.csv` | 1 row per brand per day | Rows found, new, changed, removed, status |
+| `reports/CHANGES.md` | Overwritten daily | Summary table, problems, biggest price moves, stock changes, new variants |
+
+A variant counts as **changed** when its price, "was" price (`compare_at_price`) or stock status differs from the last good day.
+
+### When a run fails
+
+| Check | Result |
+| --- | --- |
+| Cleaning crashes (JSON format changed) | `parse_error` for every brand |
+| A brand returns 0 rows | `fail` |
+| Over 1% of a brand's rows have no price | `fail` |
+| A brand's rows fall below half of its last good day | `fail` |
+| Over half of a brand's rows changed | `warn` only (usually a real sale) |
+
+A failed brand is left out of that day's snapshot, so the next run compares it with its last good day instead of a broken scrape.
+
+### Run it locally
+
+```bash
+uv run python -m tracker.run                  # normal run (skips if today already succeeded)
+uv run python -m tracker.run --force          # run again anyway
+uv run python -m tracker.run --raw-dir data/raw/<folder> --date 2026-01-01   # replay saved JSON, for testing
+```
+
+### Load the time series
+
+```python
+from pathlib import Path
+import pandas as pd
+
+history = pd.concat(
+    [pd.read_csv(p).assign(date=p.name[:10]) for p in sorted(Path("data/tracker/snapshots").glob("*.csv.gz"))],
+    ignore_index=True,
+)
+history["date"] = pd.to_datetime(history["date"])
+```
+
+### Design choices
+
+- **Small committed files, not a database:** GitHub's runners are wiped after every run, so data must be committed. A daily SQLite file would bloat git; compressed slim CSV snapshots stay small.
+- **Save first, fail last:** a failed check still commits its report and run log before the run turns red, so nothing is lost and the failure is visible.
+- **Compare with the last good day:** a blocked or broken scrape never shows up as thousands of "new" or "removed" products.
+- **A backup run each day:** scheduled workflows can be delayed or dropped, so a second run 6 hours later retries if the first didn't succeed. Rerunning on the same day replaces that day's rows rather than duplicating them.
+- **Sales warn instead of failing:** large real price changes (e.g. Black Friday) are news, not breakage.
+- **Raw JSON kept only 14 days:** uploaded as a workflow artifact for debugging, not committed.
+
+### Limitations
+
+- Dates are UTC.
+- GitHub may occasionally skip a scheduled run; missing days are left as gaps, not filled in.
+- Only the columns in the snapshot can be analysed for past days; fields like URLs and tags aren't kept.
