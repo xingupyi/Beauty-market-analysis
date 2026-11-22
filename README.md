@@ -133,9 +133,8 @@ Every day, a GitHub Actions workflow re-runs the scraper, saves a snapshot of ev
 GitHub schedule (14:37 UTC, backup 20:37 UTC)
   └─► tracker/run.py
         1. Skip if today already succeeded (runs.csv)
-        2. Scrape   → scraper/fetch.py   (same as Phase 1)
-        3. Clean    → scraper/clean.py   (same as Phase 1)
-        4. Per brand:
+        2. Scrape   → scraper/fetch.py   
+        3. Clean    → scraper/clean.py   
              find its last good day        → tracker/compare.py
              compare: new / changed / removed
              health checks                 → tracker/checks.py
@@ -202,15 +201,9 @@ history["date"] = pd.to_datetime(history["date"])
 
 ### Design choices
 
-- **Small committed files, not a database:** GitHub's runners are wiped after every run, so data must be committed. A daily SQLite file would bloat git; compressed slim CSV snapshots stay small.
+- **Small committed files, not a database:** GitHub's runners are wiped after every run, so data must be committed. A daily SQLite file would bloat git, compressed slim CSV snapshots stay small.
 - **Save first, fail last:** a failed check still commits its report and run log before the run turns red, so nothing is lost and the failure is visible.
 - **Compare with the last good day:** a blocked or broken scrape never shows up as thousands of "new" or "removed" products.
 - **A backup run each day:** scheduled workflows can be delayed or dropped, so a second run 6 hours later retries if the first didn't succeed. Rerunning on the same day replaces that day's rows rather than duplicating them.
 - **Sales warn instead of failing:** large real price changes (e.g. Black Friday) are news, not breakage.
 - **Raw JSON kept only 14 days:** uploaded as a workflow artifact for debugging, not committed.
-
-### Limitations
-
-- Dates are UTC.
-- GitHub may occasionally skip a scheduled run; missing days are left as gaps, not filled in.
-- Only the columns in the snapshot can be analysed for past days; fields like URLs and tags aren't kept.
