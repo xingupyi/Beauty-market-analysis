@@ -21,7 +21,7 @@ log = logging.getLogger(__name__)
 
 USER_AGENT = (
     "beauty-market-snapshot/1.0 (student portfolio project; "
-    "contact: your.email@example.com)"
+    "contact: xinyikiki@gmail.com)"
 )
 PAGE_SIZE = 250          # Shopify's maximum per page
 MAX_PAGES = 40           # safety cap: 40 x 250 = 10,000 products per brand
