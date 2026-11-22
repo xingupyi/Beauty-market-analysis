@@ -1,0 +1,63 @@
+name: Daily tracker
+
+on:
+  schedule:
+    - cron: "37 14 * * *"   # every day at 14:37 UTC (6:37 am Pacific)
+    - cron: "37 20 * * *"   # backup run; exits straight away if 14:37 already succeeded
+  workflow_dispatch:         # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write            # lets the workflow commit the new data back to the repo
+
+concurrency:
+  group: daily-tracker       # never run two copies at once
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v7
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
+
+      - name: Scrape, compare and report
+        id: track
+        continue-on-error: true      # keep going so the data and report still get committed
+        run: uv run --locked python -m tracker.run
+
+      - name: Commit data and report
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tracker reports
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit"
+          else
+            git commit -m "Daily tracker: $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Keep raw JSON and logs for 14 days (for debugging)
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: raw-and-logs-${{ github.run_id }}
+          path: |
+            data/raw/
+            logs/
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Fail the run if any check failed
+        if: steps.track.outcome == 'failure'
+        run: |
+          echo "::error::Tracker checks failed. See reports/CHANGES.md and the log above."
+          exit 1
