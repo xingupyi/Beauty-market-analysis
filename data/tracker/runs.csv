@@ -6,3 +6,10 @@ date,brand,compared_with,rows_found,new,changed,removed,status
 2026-11-22,Rhode,first run,187,0,0,0,ok
 2026-11-22,Fenty Beauty,first run,1209,0,0,0,ok
 2026-11-22,Glossier,first run,333,0,0,0,ok
+2026-11-23,ColourPop,2026-11-22,1112,1,6,4,ok
+2026-11-23,Morphe,2026-11-22,1658,0,36,5,ok
+2026-11-23,Frank Body,2026-11-22,105,0,0,0,ok
+2026-11-23,Kylie Cosmetics,2026-11-22,689,0,0,0,ok
+2026-11-23,Rhode,2026-11-22,187,0,1,0,ok
+2026-11-23,Fenty Beauty,2026-11-22,1209,0,0,0,ok
+2026-11-23,Glossier,2026-11-22,333,0,0,0,ok

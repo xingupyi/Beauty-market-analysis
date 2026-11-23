@@ -1,0 +1,54 @@
+date,brand,variant_id,product_title,variant_title,change,price_old,price_new,compare_at_price_old,compare_at_price_new,available_old,available_new
+2026-11-23,ColourPop,22676583943,Dope Taupe Pencil,Default Title,changed,9.0,9.0,0.0,0.0,True,False
+2026-11-23,ColourPop,926627790873,Small Tapered Brush,Default Title,changed,8.0,8.0,0.0,0.0,True,False
+2026-11-23,ColourPop,39321650757714,Black,Default Title,removed,10.0,,0.0,,False,
+2026-11-23,ColourPop,39975790641234,Happy Thoughts,Default Title,changed,8.0,8.0,0.0,0.0,True,False
+2026-11-23,ColourPop,40380306882642,Plum Smash,Default Title,removed,8.0,,0.0,,True,
+2026-11-23,ColourPop,40450592079954,Espresso Martini,Default Title,removed,6.3,,9.0,,False,
+2026-11-23,ColourPop,40899133538386,Type Advantage,Default Title,changed,37.0,37.0,0.0,0.0,True,False
+2026-11-23,ColourPop,41239449862226,Sweet as Hunny,Default Title,removed,32.0,,0.0,,True,
+2026-11-23,ColourPop,42213087117394,Cotton Candy,Default Title,changed,12.0,12.0,0.0,0.0,True,False
+2026-11-23,ColourPop,42389686059090,Creaseless Hair Clips,Default Title,changed,12.0,12.0,,,True,False
+2026-11-23,ColourPop,42808458346578,Mini Fresh Kiss Glossy Lip Balm Kit,Default Title,new,,19.0,,0.0,,True
+2026-11-23,Morphe,39346345082952,Make It Big Brush-Tip Liquid Liner,Default Title,removed,9.75,,13.0,,True,
+2026-11-23,Morphe,40554222092360,Brow Tease Fiber-Infused Volumizing Mousse,Biscotti,removed,8.25,,11.0,,False,
+2026-11-23,Morphe,40554222190664,Brow Tease Fiber-Infused Volumizing Mousse,Latte,removed,8.25,,11.0,,False,
+2026-11-23,Morphe,40554244472904,Supreme Brow Sculpting And Shaping Wax,Latte (soft brown),changed,8.25,8.25,11.0,11.0,True,False
+2026-11-23,Morphe,40554733011016,Filter Effect Soft Radiance Concealer,Filter Light 8,changed,9.75,9.75,13.0,13.0,True,False
+2026-11-23,Morphe,40636061614152,Signature Lip Pencil,Junior Suite,changed,5.25,5.25,7.0,7.0,True,False
+2026-11-23,Morphe,41019769978952,Lip Filter & Signature Lip Pencil Ultimate Bundle,Default Title,changed,219.0,219.0,292.0,292.0,True,False
+2026-11-23,Morphe,41019920416840,Best Selling Signature Lip Bundle - Medium,Default Title,changed,15.75,15.75,21.0,21.0,True,False
+2026-11-23,Morphe,41051644952648,Lip Filter & Signature Lip  Bundle,Ballet / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051645476936,Lip Filter & Signature Lip  Bundle,Teddy / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051646001224,Lip Filter & Signature Lip  Bundle,Petal / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051646525512,Lip Filter & Signature Lip  Bundle,Honey / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051647049800,Lip Filter & Signature Lip  Bundle,Dearest / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051647574088,Lip Filter & Signature Lip  Bundle,Whipped / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051648098376,Lip Filter & Signature Lip  Bundle,Souffle / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051648622664,Lip Filter & Signature Lip  Bundle,Suede / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051649146952,Lip Filter & Signature Lip  Bundle,Plush / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051649671240,Lip Filter & Signature Lip  Bundle,Beret / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051650195528,Lip Filter & Signature Lip  Bundle,Haze / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051650719816,Lip Filter & Signature Lip  Bundle,Velvet / Junior Suite,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-23,Morphe,41051702427720,Fully Covered Lip Bundle,Queen Bee / Ballet / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051702952008,Fully Covered Lip Bundle,Queen Bee / Teddy / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051703476296,Fully Covered Lip Bundle,Queen Bee / Petal / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051704000584,Fully Covered Lip Bundle,Queen Bee / Honey / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051704524872,Fully Covered Lip Bundle,Queen Bee / Dearest / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051705049160,Fully Covered Lip Bundle,Queen Bee / Whipped / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051705573448,Fully Covered Lip Bundle,Queen Bee / Souffle / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051706097736,Fully Covered Lip Bundle,Queen Bee / Suede / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051706622024,Fully Covered Lip Bundle,Queen Bee / Plush / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051707146312,Fully Covered Lip Bundle,Queen Bee / Beret / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051707670600,Fully Covered Lip Bundle,Queen Bee / Haze / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051708194888,Fully Covered Lip Bundle,Queen Bee / Velvet / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051708719176,Fully Covered Lip Bundle,Heat Swarm / Ballet / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051709243464,Fully Covered Lip Bundle,Heat Swarm / Teddy / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051709767752,Fully Covered Lip Bundle,Heat Swarm / Petal / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41051710292040,Fully Covered Lip Bundle,Heat Swarm / Honey / Junior Suite,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-23,Morphe,41097015394376,Nude 7-Piece Lip Bundle,Default Title,changed,60.75,60.75,81.0,81.0,True,False
+2026-11-23,Morphe,41243370160200,Signature Lip Pencil & Dripglass Crystal Super Shine Lip Gloss Bundle,Junior Suite,changed,15.0,15.0,20.0,20.0,True,False
+2026-11-23,Morphe,41355566121032,Holiday Collection Face & Eye Palette,Glass Half Full,removed,29.0,,,,False,
+2026-11-23,Morphe,41355573755976,Holiday Collection ChromaPlus Eyeshadow Trio,Seek Your Fortune,removed,13.0,,,,False,
+2026-11-23,Morphe,41361494540360,Full Holiday Collection Bundle,Default Title,changed,114.0,85.0,,,False,True
+2026-11-23,Rhode,48061165732078,lip case,iphone 14 pro / sweet pea,changed,38.0,38.0,,,True,False
