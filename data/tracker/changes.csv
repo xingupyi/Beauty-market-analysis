@@ -108,3 +108,569 @@ date,brand,variant_id,product_title,variant_title,change,price_old,price_new,com
 2026-11-24,Fenty Beauty,43184301408301,Pro Filt'r Instant Retouch Primer — Soft Matte,Soft Matte / Mini,removed,20.0,,,,False,
 2026-11-24,Fenty Beauty,44163105587245,Fenty Eau de Parfum Gift Set,10ml + 6ml,removed,42.0,,,,False,
 2026-11-24,Fenty Beauty,44163105620013,Fenty Eau de Parfum Gift Set,10ml + 30ml,removed,99.0,,,,False,
+2026-11-25,ColourPop,22676541319,DGAF,Default Title,changed,7.0,7.0,0.0,0.0,True,False
+2026-11-25,ColourPop,22677849287,Tassel,Default Title,changed,7.0,7.0,0.0,0.0,False,True
+2026-11-25,ColourPop,40230689144914,Swell Season,Default Title,removed,10.0,,0.0,,True,
+2026-11-25,ColourPop,40797691314258,Jaguar,Default Title,removed,8.0,,0.0,,True,
+2026-11-25,ColourPop,42169508626514,Buttery Pancakes,Default Title,changed,10.0,10.0,0.0,0.0,True,False
+2026-11-25,ColourPop,42211429220434,Shine. Shimmer. Repeat.,Default Title,changed,54.0,54.0,0.0,0.0,True,False
+2026-11-25,ColourPop,42459502280786,Sylveon,Default Title,changed,12.0,12.0,0.0,0.0,False,True
+2026-11-25,ColourPop,42459571060818,Touch of Sparkle,Default Title,changed,29.0,29.0,0.0,0.0,False,True
+2026-11-25,ColourPop,42665066496082,Malibu Village,Default Title,changed,6.0,6.0,0.0,0.0,False,True
+2026-11-25,ColourPop,42808444944466,Lippie Gloss Collection,Default Title,changed,83.0,83.0,,,False,True
+2026-11-25,ColourPop,42808448385106,Mauvin’ on Up,Default Title,changed,15.0,15.0,,,False,True
+2026-11-25,ColourPop,42831198224466,Mauve Magic,Default Title,changed,10.0,10.0,,,False,True
+2026-11-25,Morphe,40554224582728,Wakeup Artist Under Eye Correcting Concealer,Sandstone 7.5n,changed,9.0,9.0,12.0,12.0,True,False
+2026-11-25,Morphe,40636061581384,Signature Lip Pencil,Girl Talk,changed,5.25,5.25,7.0,7.0,True,False
+2026-11-25,Morphe,41019869429832,Best Selling Signature Lip Bundle - Light,Default Title,changed,15.75,15.75,21.0,21.0,True,False
+2026-11-25,Morphe,41051644919880,Lip Filter & Signature Lip  Bundle,Ballet / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051645444168,Lip Filter & Signature Lip  Bundle,Teddy / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051645968456,Lip Filter & Signature Lip  Bundle,Petal / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051646492744,Lip Filter & Signature Lip  Bundle,Honey / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051647017032,Lip Filter & Signature Lip  Bundle,Dearest / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051647541320,Lip Filter & Signature Lip  Bundle,Whipped / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051648065608,Lip Filter & Signature Lip  Bundle,Souffle / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051648589896,Lip Filter & Signature Lip  Bundle,Suede / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051649114184,Lip Filter & Signature Lip  Bundle,Plush / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051649638472,Lip Filter & Signature Lip  Bundle,Beret / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051650162760,Lip Filter & Signature Lip  Bundle,Haze / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051650687048,Lip Filter & Signature Lip  Bundle,Velvet / Girl Talk,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-25,Morphe,41051702394952,Fully Covered Lip Bundle,Queen Bee / Ballet / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051702919240,Fully Covered Lip Bundle,Queen Bee / Teddy / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051703443528,Fully Covered Lip Bundle,Queen Bee / Petal / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051703967816,Fully Covered Lip Bundle,Queen Bee / Honey / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051704492104,Fully Covered Lip Bundle,Queen Bee / Dearest / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051705016392,Fully Covered Lip Bundle,Queen Bee / Whipped / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051705540680,Fully Covered Lip Bundle,Queen Bee / Souffle / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051706064968,Fully Covered Lip Bundle,Queen Bee / Suede / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051706589256,Fully Covered Lip Bundle,Queen Bee / Plush / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051707113544,Fully Covered Lip Bundle,Queen Bee / Beret / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051707637832,Fully Covered Lip Bundle,Queen Bee / Haze / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051708162120,Fully Covered Lip Bundle,Queen Bee / Velvet / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051708686408,Fully Covered Lip Bundle,Heat Swarm / Ballet / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051709210696,Fully Covered Lip Bundle,Heat Swarm / Teddy / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051709734984,Fully Covered Lip Bundle,Heat Swarm / Petal / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051710259272,Fully Covered Lip Bundle,Heat Swarm / Honey / Girl Talk,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-25,Morphe,41051843559496,Ultimate Glow Trio,Blind Date / Dawn / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051844345928,Ultimate Glow Trio,Blind Date / Sunrise / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051845132360,Ultimate Glow Trio,Blind Date / Golden Hour / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051845918792,Ultimate Glow Trio,Blind Date / Sunset / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051846705224,Ultimate Glow Trio,Beach Bonfire / Dawn / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051847491656,Ultimate Glow Trio,Beach Bonfire / Sunrise / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051848278088,Ultimate Glow Trio,Beach Bonfire / Golden Hour / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41051849064520,Ultimate Glow Trio,Beach Bonfire / Sunset / Sandstone 7.5n,changed,36.0,36.0,48.0,48.0,True,False
+2026-11-25,Morphe,41243370127432,Signature Lip Pencil & Dripglass Crystal Super Shine Lip Gloss Bundle,Girl Talk,changed,15.0,15.0,20.0,20.0,True,False
+2026-11-25,Frank Body,50541143228591,Triple Shot Kit,Default Title,removed,25.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927612391666,Velvet Lip Kit,Bare,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927613112562,The Bronze Palette,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-25,Kylie Cosmetics,43927613767922,Coconut Body Lotion,Default Title,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,43927613997298,Detangling Hair Brush,Default Title,changed,12.0,8.4,,12.0,True,True
+2026-11-25,Kylie Cosmetics,43927614357746,Gloss Drip,underestimated,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614390514,Gloss Drip,besitos,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614423282,Gloss Drip,stop staring,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614456050,Gloss Drip,match my energy,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614587122,Hair Pins,Default Title,changed,7.0,4.9,14.0,7.0,True,True
+2026-11-25,Kylie Cosmetics,43927614750962,High Gloss,yesss girl,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927614783730,High Gloss,posie k,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614816498,High Gloss,slept on,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614849266,High Gloss,crystal,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614882034,High Gloss,always shining,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927614914802,High Gloss,sugar plum,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927614947570,High Gloss,glamour,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927614980338,High Gloss,sweet,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615013106,High Gloss,you are the sun,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615045874,High Gloss,cupid,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615078642,High Gloss,so cute,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615111410,High Gloss,daddys girl,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615144178,High Gloss,one in a billion,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615176946,High Gloss,partner in crime,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615209714,High Gloss,literally,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615242482,High Gloss,lost angel,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615275250,High Gloss,i'm the catch,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615308018,High Gloss,damn gina,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615340786,High Gloss,like,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615373554,High Gloss,23,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615406322,High Gloss,klear,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615439090,High Gloss,poppin,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615471858,High Gloss,story of us,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927615504626,High Gloss,oh you fancy,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615537394,High Gloss,candy k,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615570162,High Gloss,my moon and stars,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615602930,High Gloss,diva,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615635698,High Gloss,koko k,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927615668466,High Gloss,snatched,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927615701234,High Gloss,glitz,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927616487666,Hooded Bath Towel,White,changed,30.0,21.0,,30.0,False,False
+2026-11-25,Kylie Cosmetics,43927616520434,Hooded Bath Towel,Pink,changed,30.0,21.0,,30.0,True,True
+2026-11-25,Kylie Cosmetics,43927616553202,Hooded Bath Towel,Blue,changed,30.0,21.0,,30.0,False,False
+2026-11-25,Kylie Cosmetics,43927617339634,Kybrow Brush,Default Title,changed,16.0,11.2,,16.0,True,True
+2026-11-25,Kylie Cosmetics,43927617405170,Kybrow Gel,Default Title,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,43927618945266,Kylighter Illuminating Powder,queen drip,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927618978034,Kylighter Illuminating Powder,dreamin of diamonds,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619010802,Kylighter Illuminating Powder,cotton candy cream,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619043570,Kylighter Illuminating Powder,princess please,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619076338,Kylighter Illuminating Powder,salted caramel,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619109106,Kylighter Illuminating Powder,quartz,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619141874,Kylighter Illuminating Powder,cheers darling,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619174642,Kylighter Illuminating Powder,ice me out,removed,24.0,,,,False,
+2026-11-25,Kylie Cosmetics,43927619240178,Gel Eyeliner Pencil,shimmery grey,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619272946,Gel Eyeliner Pencil,matte grey,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619305714,Gel Eyeliner Pencil,shimmery blue,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619338482,Gel Eyeliner Pencil,matte plum,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619371250,Gel Eyeliner Pencil,shimmery purple,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619404018,Gel Eyeliner Pencil,matte green,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619436786,Gel Eyeliner Pencil,shimmery brown,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619469554,Gel Eyeliner Pencil,matte dark brown,changed,18.0,12.6,,18.0,True,True
+2026-11-25,Kylie Cosmetics,43927619502322,Gel Eyeliner Pencil,matte blue,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619535090,Gel Eyeliner Pencil,matte nude,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619567858,Gel Eyeliner Pencil,shimmery bronze,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619600626,Gel Eyeliner Pencil,shimmery black,changed,18.0,12.6,,18.0,True,True
+2026-11-25,Kylie Cosmetics,43927619666162,Gel Eyeliner Pencil,shimmery gold,changed,18.0,12.6,,18.0,False,False
+2026-11-25,Kylie Cosmetics,43927619698930,Gel Eyeliner Pencil,matte brown,changed,18.0,12.6,,18.0,True,True
+2026-11-25,Kylie Cosmetics,43927619797234,Kyliner Brush Tip Liquid Eyeliner Pen,Default Title,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,43927620190450,Lip & Cheek Glow Balm,doin the most,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927620223218,Lip & Cheek Glow Balm,feelings neutral,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927620255986,Lip & Cheek Glow Balm,off the clock,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927620288754,Lip & Cheek Glow Balm,pink me up,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927620714738,Lip Liner,forever and always,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927620747506,Lip Liner,iced latte,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927620780274,Lip Liner,handbag ho,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927620813042,Lip Liner,beau,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927620845810,Lip Liner,hot chai,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927620878578,Lip Liner,coconut,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,43927620911346,Lip Liner,caramel,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,43927620944114,Lip Liner,give me a kiss,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927620976882,Lip Liner,souffle,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,43927621435634,Loofah,Default Title,changed,4.0,2.8,,4.0,True,True
+2026-11-25,Kylie Cosmetics,43927621566706,Makeup Sponge,Default Title,changed,15.0,10.5,,15.0,True,True
+2026-11-25,Kylie Cosmetics,43927621599474,Matte Lip Kit,baddie,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621632242,Matte Lip Kit,brown sugar,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621665010,Matte Lip Kit,leo,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621697778,Matte Lip Kit,show off,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621730546,Matte Lip Kit,posie k,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927621763314,Matte Lip Kit,dolce k,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927621796082,Matte Lip Kit,clove,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621828850,Matte Lip Kit,bad lil thing,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621861618,Matte Lip Kit,boss,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927621894386,Matte Lip Kit,snow way bae,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927621927154,Matte Lip Kit,head over heels,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927621959922,Matte Lip Kit,hollyberry,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927621992690,Matte Lip Kit,one wish,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622025458,Matte Lip Kit,exposed,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622058226,Matte Lip Kit,queen,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622090994,Matte Lip Kit,kristen,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622156530,Matte Lip Kit,ginger,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622189298,Matte Lip Kit,candy k,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622222066,Matte Lip Kit,22,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622254834,Matte Lip Kit,valentine,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622287602,Matte Lip Kit,angel,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622320370,Matte Lip Kit,autumn,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622353138,Matte Lip Kit,sweater weather,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622385906,Matte Lip Kit,bite me,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622418674,Matte Lip Kit,no sleep,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622484210,Matte Lip Kit,maliboo,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622516978,Matte Lip Kit,mary jo k,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622549746,Matte Lip Kit,tipsy,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622582514,Matte Lip Kit,twenty,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622615282,Matte Lip Kit,extraordinary,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622648050,Matte Lip Kit,victoria,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622680818,Matte Lip Kit,true brown k,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622713586,Matte Lip Kit,dirty peach,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622746354,Matte Lip Kit,kylie,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,43927622779122,Matte Lip Kit,Kylie Friday,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,43927622844658,Matte Liquid Lipstick,built to last,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927622877426,Matte Liquid Lipstick,candy k,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927622910194,Matte Liquid Lipstick,not in the mood,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927622942962,Matte Liquid Lipstick,kristen,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927622975730,Matte Liquid Lipstick,bunny,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927623008498,Matte Liquid Lipstick,queen,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623041266,Matte Liquid Lipstick,koko k,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623074034,Matte Liquid Lipstick,ginger,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927623106802,Matte Liquid Lipstick,allergic to bullsh*t,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623139570,Matte Liquid Lipstick,22,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623172338,Matte Liquid Lipstick,a moment,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623205106,Matte Liquid Lipstick,on brand,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623237874,Matte Liquid Lipstick,clove,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623303410,Matte Liquid Lipstick,commando,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623336178,Matte Liquid Lipstick,maliboo,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623368946,Matte Liquid Lipstick,clap back,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927623401714,Matte Liquid Lipstick,twenty,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623434482,Matte Liquid Lipstick,bare,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623467250,Matte Liquid Lipstick,high maintenance,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623500018,Matte Liquid Lipstick,dolce k,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623532786,Matte Liquid Lipstick,autumn,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623565554,Matte Liquid Lipstick,apricot,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623598322,Matte Liquid Lipstick,head over heels,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623631090,Matte Liquid Lipstick,brown sugar,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623663858,Matte Liquid Lipstick,baby girl,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623696626,Matte Liquid Lipstick,call me,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623729394,Matte Liquid Lipstick,khlo$,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927623762162,Matte Liquid Lipstick,angel,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927623794930,Matte Liquid Lipstick,dirty peach,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623827698,Matte Liquid Lipstick,posie k,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927623860466,Matte Liquid Lipstick,almost ready,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,43927623893234,Matte Liquid Lipstick,another day another nude,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623926002,Matte Liquid Lipstick,love bite,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927623958770,Matte Liquid Lipstick,hazel,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927623991538,Matte Liquid Lipstick,boujee,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927624024306,Matte Liquid Lipstick,one wish,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,43927624057074,Matte Liquid Lipstick,wish you were here,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624548594,Pencil Sharpener,Default Title,changed,6.0,4.2,,6.0,True,True
+2026-11-25,Kylie Cosmetics,43927624646898,Pressed Blush Powder,pink dreams,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624679666,Pressed Blush Powder,kitten baby,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624712434,Pressed Blush Powder,rosy,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624777970,Pressed Blush Powder,crush,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624810738,Pressed Blush Powder,we're going shopping,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624843506,Pressed Blush Powder,close to perfect,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,43927624876274,Pressed Blush Powder,pink power,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927624909042,Pressed Blush Powder,winter kissed,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927624941810,Pressed Blush Powder,baddie on the block,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927624974578,Pressed Bronzing Powder,almond,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927625007346,Pressed Bronzing Powder,toasty,changed,22.0,15.4,,22.0,False,True
+2026-11-25,Kylie Cosmetics,43927625072882,Pressed Bronzing Powder,khaki,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927625105650,Pressed Bronzing Powder,tawny mami,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927625138418,Pressed Bronzing Powder,tequila tan,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,43927625695474,Setting Powder,soft pink,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,43927625728242,Setting Powder,deep dark,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,43927625761010,Setting Powder,dark,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,43927625793778,Setting Powder,yellow,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,43927625826546,Setting Powder,beige,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,43927625859314,Setting Powder,translucent - old,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,43927626809586,Vanilla Milk Toner,Default Title,changed,23.0,16.1,,23.0,True,True
+2026-11-25,Kylie Cosmetics,44103761133810,Velvet Lip Kit,Charm,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,44109877149938,Velvet Lip Kit,Party Girl,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,44109902938354,Velvet Lip Kit,Red Velvet,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,44109903692018,Velvet Lip Kit,Posie K,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,44109989216498,Velvet Lip Kit,Say No More,changed,35.0,24.5,,35.0,False,False
+2026-11-25,Kylie Cosmetics,44110031651058,Velvet Lip Kit,Harmony,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,44218204979442,Lip Oil Duo,Default Title,changed,45.0,34.0,50.0,50.0,True,True
+2026-11-25,Kylie Cosmetics,44379326906610,Kylash Volume Mascara,black,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,44379332051186,Mini Kylash Volume Mascara,Default Title,changed,13.0,9.1,,13.0,True,True
+2026-11-25,Kylie Cosmetics,44389244436722,Crème Lipstick,one for the books,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244469490,Crème Lipstick,not sorry,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244502258,Crème Lipstick,if looks could kill,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244535026,Crème Lipstick,better late than never,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244567794,Crème Lipstick,just livin' life,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244600562,Crème Lipstick,nowhere 2 go,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244633330,Crème Lipstick,cooler in person,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244698866,Crème Lipstick,talk is cheap,changed,23.0,16.1,,23.0,True,False
+2026-11-25,Kylie Cosmetics,44389244731634,Crème Lipstick,been a minute,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244764402,Crème Lipstick,in my bag,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244797170,Crème Lipstick,power move,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44389244829938,Crème Lipstick,the girl in red,changed,23.0,16.1,,23.0,False,False
+2026-11-25,Kylie Cosmetics,44493630865650,Tinted Butter Balm,Kylie,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44493630898418,Tinted Butter Balm,She's Lovely,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44493630931186,Tinted Butter Balm,Pink Me Up At 8,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44493630963954,Tinted Butter Balm,Moving On,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44493630996722,Tinted Butter Balm,Love That 4 U,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44493631029490,Tinted Butter Balm,That's Tea,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44515514351858,Plumping Gloss,Rosé and Chill,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44515514384626,Plumping Gloss,Not Your Bae,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44515514417394,Plumping Gloss,Bubbly,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44515514450162,Plumping Gloss,Curve Him,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44515514482930,Plumping Gloss,Moody Queen,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44515514515698,Plumping Gloss,On Neutral,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44544332595442,The Classic Matte Palette,Default Title,changed,32.0,22.4,,32.0,False,False
+2026-11-25,Kylie Cosmetics,44577240088818,High Gloss,kylie,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44577388658930,High Gloss,gorgeous girls,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,44577389412594,High Gloss,dolce k,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44577394753778,High Gloss,been about u,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,44577395343602,High Gloss,mary jo k,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44577397801202,High Gloss,mauve mode,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,44607108022514,Gloss Drip,fall in love,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44607108055282,Gloss Drip,playfully pink,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44607108088050,Gloss Drip,sweet like hunny,changed,21.0,14.7,,21.0,False,False
+2026-11-25,Kylie Cosmetics,44629419000050,Lip Oil,strawberry,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,44629419032818,Lip Oil,passion fruit,changed,25.0,17.5,,25.0,False,False
+2026-11-25,Kylie Cosmetics,44629419065586,Lip Oil,pomegranate,changed,25.0,17.5,,25.0,False,False
+2026-11-25,Kylie Cosmetics,44652995772658,Concealer Brush 02,Default Title,changed,23.0,16.1,,23.0,True,True
+2026-11-25,Kylie Cosmetics,44652995805426,Power Plush Longwear Concealer,7WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652995838194,Power Plush Longwear Concealer,9.5N,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,44652995870962,Power Plush Longwear Concealer,9.5WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652995903730,Power Plush Longwear Concealer,10WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652995936498,Power Plush Longwear Concealer,6.5N,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,44652995969266,Power Plush Longwear Concealer,5.5WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996002034,Power Plush Longwear Concealer,9.5C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996034802,Power Plush Longwear Concealer,2N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996067570,Power Plush Longwear Concealer,3.5N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996100338,Power Plush Longwear Concealer,8C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996133106,Power Plush Longwear Concealer,7.5W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996165874,Power Plush Longwear Concealer,4C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996198642,Power Plush Longwear Concealer,1N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996231410,Power Plush Longwear Concealer,10N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996264178,Power Plush Longwear Concealer,8N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996296946,Power Plush Longwear Concealer,4.5C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996329714,Power Plush Longwear Concealer,5W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996362482,Power Plush Longwear Concealer,4WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996395250,Power Plush Longwear Concealer,2W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996428018,Power Plush Longwear Concealer,7C,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,44652996460786,Power Plush Longwear Concealer,10C,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,44652996493554,Power Plush Longwear Concealer,1C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996526322,Power Plush Longwear Concealer,1W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996559090,Power Plush Longwear Concealer,6N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996591858,Power Plush Longwear Concealer,5WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996624626,Power Plush Longwear Concealer,4W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996657394,Power Plush Longwear Concealer,5N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996690162,Power Plush Longwear Concealer,7W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996722930,Power Plush Longwear Concealer,1.5W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996755698,Power Plush Longwear Concealer,3C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996788466,Power Plush Longwear Concealer,7.5WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996821234,Power Plush Longwear Concealer,9W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996854002,Power Plush Longwear Concealer,2.5N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996886770,Power Plush Longwear Concealer,4.5WN,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996919538,Power Plush Longwear Concealer,6W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996952306,Power Plush Longwear Concealer,2C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652996985074,Power Plush Longwear Concealer,7N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652997017842,Power Plush Longwear Concealer,9.5W,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652997050610,Power Plush Longwear Concealer,3N,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44652997083378,Power Plush Longwear Concealer,6C,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,44661615624434,Mini High Gloss Duo,Default Title,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44661615689970,Mini Matte Lip Kit,Default Title,changed,20.0,14.0,,20.0,True,True
+2026-11-25,Kylie Cosmetics,44848583606514,Lip & Cheek Glow Balm,comes in cherry,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,44848583639282,Lip & Cheek Glow Balm,moody energy,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,44848583704818,Lip & Cheek Glow Balm,way to glow,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,44848583737586,Lip & Cheek Glow Balm,mellow berry,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,44848583770354,Lip & Cheek Glow Balm,haute pink,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,44851653509362,Precision Pout Lip Liner,smitten,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653542130,Precision Pout Lip Liner,coconut 2.0,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653574898,Precision Pout Lip Liner,lure,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653607666,Precision Pout Lip Liner,cappuccino,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653640434,Precision Pout Lip Liner,stone,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653673202,Precision Pout Lip Liner,comes naturally,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653705970,Precision Pout Lip Liner,cocoa,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653738738,Precision Pout Lip Liner,cinnamon,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653771506,Precision Pout Lip Liner,saturn,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44851653804274,Precision Pout Lip Liner,sultry,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,44854735700210,Foundation Brush 01,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-25,Kylie Cosmetics,44854735732978,Power Plush Longwear Foundation,8.5WN,changed,36.0,25.2,,36.0,False,False
+2026-11-25,Kylie Cosmetics,44854735765746,Power Plush Longwear Foundation,8W,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854735798514,Power Plush Longwear Foundation,10.5N,changed,36.0,25.2,,36.0,False,False
+2026-11-25,Kylie Cosmetics,44854735831282,Power Plush Longwear Foundation,1N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854735864050,Power Plush Longwear Foundation,8.5C,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854735896818,Power Plush Longwear Foundation,4.5C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854735929586,Power Plush Longwear Foundation,6.5N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854735962354,Power Plush Longwear Foundation,9.5WN,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854735995122,Power Plush Longwear Foundation,2.5N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736027890,Power Plush Longwear Foundation,1C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736060658,Power Plush Longwear Foundation,9WN,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736093426,Power Plush Longwear Foundation,3N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736126194,Power Plush Longwear Foundation,7.5W,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736158962,Power Plush Longwear Foundation,2.5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736191730,Power Plush Longwear Foundation,5WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736224498,Power Plush Longwear Foundation,6.5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736257266,Power Plush Longwear Foundation,5N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736290034,Power Plush Longwear Foundation,8WN,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736322802,Power Plush Longwear Foundation,5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736355570,Power Plush Longwear Foundation,1W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736388338,Power Plush Longwear Foundation,4N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736421106,Power Plush Longwear Foundation,1.5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736453874,Power Plush Longwear Foundation,3.5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736486642,Power Plush Longwear Foundation,10N,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736519410,Power Plush Longwear Foundation,9.5W,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736552178,Power Plush Longwear Foundation,7N,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736584946,Power Plush Longwear Foundation,9.5C,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736617714,Power Plush Longwear Foundation,6W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736650482,Power Plush Longwear Foundation,9W,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736683250,Power Plush Longwear Foundation,4.5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736716018,Power Plush Longwear Foundation,5.5W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736748786,Power Plush Longwear Foundation,2C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736781554,Power Plush Longwear Foundation,2W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736847090,Power Plush Longwear Foundation,3W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736879858,Power Plush Longwear Foundation,3C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854736912626,Power Plush Longwear Foundation,10C,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736945394,Power Plush Longwear Foundation,7.5C,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,44854736978162,Power Plush Longwear Foundation,7W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854737010930,Power Plush Longwear Foundation,6C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854737043698,Power Plush Longwear Foundation,4C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,44854764110066,Lip Butter,vanilla caramel,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,44965021810930,Setting Spray,Default Title,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,45096469037298,Power Plush Foundation & Concealer Duo,Default Title,changed,59.4,44.88,66.0,66.0,True,True
+2026-11-25,Kylie Cosmetics,45096488272114,Power Plush Foundation Trio,Default Title,changed,88.2,66.64,98.0,98.0,True,True
+2026-11-25,Kylie Cosmetics,45096495481074,Concealer & Foundation Brush Duo,Default Title,changed,49.5,37.4,55.0,55.0,True,True
+2026-11-25,Kylie Cosmetics,45099881562354,Power Plush Foundation & Brush Duo,Default Title,changed,63.0,47.6,70.0,70.0,True,True
+2026-11-25,Kylie Cosmetics,45099883299058,Power Plush Concealer & Brush Duo,Default Title,changed,45.9,34.68,51.0,51.0,True,True
+2026-11-25,Kylie Cosmetics,45150566383858,Powder Blush Stick,never too much,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,45150566416626,Powder Blush Stick,play for keeps,changed,26.0,18.2,,26.0,True,False
+2026-11-25,Kylie Cosmetics,45150566449394,Powder Blush Stick,make him blush,changed,26.0,18.2,,26.0,False,False
+2026-11-25,Kylie Cosmetics,45150566482162,Powder Blush Stick,meet there,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,45150566514930,Powder Blush Stick,breakfast in bed,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,45167939322098,Mini Wisp Lash Mascara,Default Title,changed,13.0,9.1,,13.0,True,True
+2026-11-25,Kylie Cosmetics,45167939354866,Wisp Lash Mascara,Default Title,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,45209495372018,Supple Kiss Lip Glaze,lover girl,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,45209495404786,Supple Kiss Lip Glaze,rose bloom,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,45209495437554,Supple Kiss Lip Glaze,like magic,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,45209495470322,Supple Kiss Lip Glaze,lovable,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,45209495503090,Supple Kiss Lip Glaze,nude kiss,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,45209495535858,Supple Kiss Lip Glaze,all yours,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,45256526528754,Lip Butter & Precision Pout Lip Liner Duo,Default Title,changed,36.0,27.2,40.0,40.0,True,True
+2026-11-25,Kylie Cosmetics,45275805974770,Powder Blush Stick,hey sugar,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46061752615154,Supple Kiss Lip Glaze & Precision Pout Lip Liner Duo,Default Title,changed,36.0,27.2,40.0,40.0,True,True
+2026-11-25,Kylie Cosmetics,46141202170098,Glow Balm & Lip Butter Duo,Default Title,changed,38.7,29.24,43.0,43.0,True,True
+2026-11-25,Kylie Cosmetics,46141211771122,Tinted Butter Balm & Precision Pout Lip Liner Duo,Default Title,changed,36.0,27.2,40.0,40.0,True,True
+2026-11-25,Kylie Cosmetics,46201967902962,Skin Tint Brush 03,Default Title,changed,29.0,20.3,,29.0,True,True
+2026-11-25,Kylie Cosmetics,46202367312114,Face Brush Trio,Default Title,changed,75.6,57.12,84.0,84.0,True,True
+2026-11-25,Kylie Cosmetics,46326964060402,Transformative Lip Tint,pretty plum,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46326964093170,Transformative Lip Tint,always rosy,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46601157050610,Lip & Cheek Blush Tint,all things pink,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46601157083378,Lip & Cheek Blush Tint,summer feeling,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46601157116146,Lip & Cheek Blush Tint,pretty in neutral,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46601157148914,Lip & Cheek Blush Tint,glow away,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46601157181682,Lip & Cheek Blush Tint,she's it,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46601157214450,Lip & Cheek Blush Tint,dazed,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46684126216434,Lip Oil Gift Set,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,46721447690482,Lip Oil,chocolate cookie,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,46721447723250,Lip Oil,crème brûlée,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,46721447756018,Lip Oil,hazelnut crème,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,46729513894130,Lip Oil Desserts PR Box,Default Title,changed,94.0,65.8,,94.0,False,True
+2026-11-25,Kylie Cosmetics,46793745891570,Plumping Powder Matte Lip,chocolate teddy,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793745924338,Plumping Powder Matte Lip,sweet talk,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793745957106,Plumping Powder Matte Lip,unexpected,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793745989874,Plumping Powder Matte Lip,nude mood,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793746022642,Plumping Powder Matte Lip,craving cherry,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793746055410,Plumping Powder Matte Lip,love letter,changed,22.0,15.4,,22.0,False,False
+2026-11-25,Kylie Cosmetics,46793746088178,Plumping Powder Matte Lip,special energy,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793746120946,Plumping Powder Matte Lip,girl's girl,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,46793752576242,Plumping Lip Liner,toffee,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,46793752609010,Plumping Lip Liner,coconut,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,46793752641778,Plumping Lip Liner,pecan,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,46793752674546,Plumping Lip Liner,iced latte,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,46793752707314,Plumping Lip Liner,risky rose,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,46793752740082,Plumping Lip Liner,kylie,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,46827698487538,Plumping Gloss & Lip Liner Duo,Default Title,changed,36.0,27.2,40.0,40.0,True,True
+2026-11-25,Kylie Cosmetics,46827712315634,Plumping Powder Matte Lip & Lip Liner Duo,Default Title,changed,36.9,27.88,41.0,41.0,True,True
+2026-11-25,Kylie Cosmetics,46923087806706,Transformative Lip Tint,black cherry,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,46923324260594,Gloss Drip,soft spoken,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,46923324293362,Gloss Drip,cranberry craze,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,46923324326130,Gloss Drip,wine kisses,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,46923336319218,Precision Pout Lip Liner,maple,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,46923336351986,Precision Pout Lip Liner,mauve muse,changed,19.0,13.3,,19.0,False,False
+2026-11-25,Kylie Cosmetics,47015816921330,Natural Blur Powder Foundation,2N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015816954098,Natural Blur Powder Foundation,1C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015816986866,Natural Blur Powder Foundation,2WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817019634,Natural Blur Powder Foundation,8W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817052402,Natural Blur Powder Foundation,9N,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,47015817085170,Natural Blur Powder Foundation,6N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817117938,Natural Blur Powder Foundation,1N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817150706,Natural Blur Powder Foundation,2C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817183474,Natural Blur Powder Foundation,9C,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,47015817216242,Natural Blur Powder Foundation,3W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817249010,Natural Blur Powder Foundation,8C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817281778,Natural Blur Powder Foundation,8WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817314546,Natural Blur Powder Foundation,1W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817347314,Natural Blur Powder Foundation,5C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817380082,Natural Blur Powder Foundation,7W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817412850,Natural Blur Powder Foundation,9WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817445618,Natural Blur Powder Foundation,5N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817478386,Natural Blur Powder Foundation,8N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817511154,Natural Blur Powder Foundation,10.5N,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,47015817543922,Natural Blur Powder Foundation,3WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817576690,Natural Blur Powder Foundation,6W,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817609458,Natural Blur Powder Foundation,3C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817642226,Natural Blur Powder Foundation,7C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817674994,Natural Blur Powder Foundation,5WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817707762,Natural Blur Powder Foundation,4C,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817740530,Natural Blur Powder Foundation,10N,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,47015817773298,Natural Blur Powder Foundation,4WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817806066,Natural Blur Powder Foundation,6WN,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47015817838834,Natural Blur Powder Foundation,10WN,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,47015817871602,Natural Blur Powder Foundation,3N,changed,38.0,26.6,,38.0,True,True
+2026-11-25,Kylie Cosmetics,47129303449842,Natural Blur Powder Foundation & Power Plush Concealer Duo,Default Title,changed,59.4,44.88,66.0,66.0,True,True
+2026-11-25,Kylie Cosmetics,47211955454194,Cosmic Kylie Jenner 2.0 Eau de Parfum,100ml,changed,85.0,59.5,,85.0,True,True
+2026-11-25,Kylie Cosmetics,47211955486962,Cosmic Kylie Jenner 2.0 Eau de Parfum,50ml,changed,65.0,45.5,,65.0,True,True
+2026-11-25,Kylie Cosmetics,47211955519730,Cosmic Kylie Jenner 2.0 Eau de Parfum,30ml,changed,55.0,38.5,,55.0,True,True
+2026-11-25,Kylie Cosmetics,47211955552498,Cosmic Kylie Jenner 2.0 Eau de Parfum Pen Spray,Default Title,changed,29.0,20.3,,29.0,True,True
+2026-11-25,Kylie Cosmetics,47212184305906,Cosmic Kylie Jenner 2.0 30ml & Pen Spray Duo,Default Title,changed,75.6,57.12,84.0,84.0,True,True
+2026-11-25,Kylie Cosmetics,47212195152114,Cosmic Kylie Jenner 2.0 100ml & Pen Spray Duo,Default Title,changed,102.6,77.52,114.0,114.0,True,True
+2026-11-25,Kylie Cosmetics,47264276054258,Lip Butter,toasted marshmallow,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47402663706866,Tinted Butter Balm,Honey,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47402663739634,Tinted Butter Balm,Mocha Kiss,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47402663772402,Tinted Butter Balm,Angel Cake,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47402663805170,Tinted Butter Balm,Spiced,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47484619981042,Hybrid Blush,pink please,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620013810,Hybrid Blush,petal,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620046578,Hybrid Blush,slow jam,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620079346,Hybrid Blush,summer sorbet,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620112114,Hybrid Blush,cheeky mood,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620144882,Hybrid Blush,winter kissed 2.0,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620177650,Hybrid Blush,ladybug,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47484620210418,Hybrid Blush,sienna,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47542075392242,Hybrid Blush & Lip Butter Duo,Default Title,changed,38.7,29.24,43.0,43.0,True,True
+2026-11-25,Kylie Cosmetics,47551460147442,Glossy Lip Kit,dolce k,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47551460180210,Glossy Lip Kit,coconut 2.0,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47551460212978,Glossy Lip Kit,comes naturally,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47551460245746,Glossy Lip Kit,espresso,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47551460278514,Glossy Lip Kit,candy pink,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47551460311282,Glossy Lip Kit,kylie,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47551520047346,Dewy Balm Stick,solar glow,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,47551520080114,Dewy Balm Stick,lunar sky,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,47551520112882,Dewy Balm Stick,peach sun,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,47551520145650,Dewy Balm Stick,rose dusk,changed,28.0,19.6,,28.0,False,False
+2026-11-25,Kylie Cosmetics,47627690639602,Supple Kiss Lip Glaze,sunburst,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47627690672370,Supple Kiss Lip Glaze,pink ice,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47627690705138,Supple Kiss Lip Glaze,moonstruck,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47627690737906,Supple Kiss Lip Glaze,rosy ray,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47644866576626,Glossy Lip Kit & Hybrid Blush Duo,Default Title,changed,51.3,38.76,57.0,57.0,True,True
+2026-11-25,Kylie Cosmetics,47729141547250,Lip Butter,peach mango,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,47779210985714,Kylash Volume Mascara,true brown,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,47823905063154,Lip Oil,watermelon,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,47856869507314,Eyeshadow Crease Blending Brush 08,Default Title,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47856870686962,Eyeshadow Shader Brush 06,Default Title,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47856871801074,Eyeshadow Packing Brush 09,Default Title,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47856874815730,Eyeshadow All-Over Blending Brush 07,Default Title,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47856899588338,Eyeshadow Brush Bundle,Default Title,changed,79.2,59.84,88.0,88.0,True,True
+2026-11-25,Kylie Cosmetics,47856917905650,Blush Duo Gift Set,Default Title,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47857556422898,Mini Mascara Duo Gift Set,Default Title,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,47857760567538,Tinted Butter Balm Trio Gift Set,Default Title,changed,40.0,28.0,,40.0,True,True
+2026-11-25,Kylie Cosmetics,47857856512242,Lip Butter Duo Gift Set,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-25,Kylie Cosmetics,47857878630642,Lip Liner & Lip Oil Duo Gift Set,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-25,Kylie Cosmetics,47858272895218,Makeup Brush Collection,Default Title,changed,177.3,133.96,197.0,197.0,True,True
+2026-11-25,Kylie Cosmetics,47886120648946,Matte Lip Kit,koko k,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,47893552595186,Vanilla Dew Hair & Body Mist,236ml,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,47893552627954,Caramel Cloud Hair & Body Mist,236ml,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,47893552660722,Sweet Éclair Hair & Body Mist,236ml,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,47893557706994,Hair & Body Mist Trio,Default Title,changed,75.6,57.12,84.0,84.0,True,True
+2026-11-25,Kylie Cosmetics,47980086395122,Blush Brush 04,Default Title,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,47980353257714,Hybrid Blush & Brush Duo,Default Title,changed,42.3,31.96,47.0,47.0,True,True
+2026-11-25,Kylie Cosmetics,47980353454322,Pressed Blush Powder & Brush Duo,Default Title,changed,42.3,31.96,47.0,47.0,True,True
+2026-11-25,Kylie Cosmetics,48003570696434,The King Kylie Eyeshadow Palette,Default Title,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,48003575578866,King Kylie Loose Powder Highlighter,Default Title,changed,26.0,18.2,,26.0,True,True
+2026-11-25,Kylie Cosmetics,48003594092786,King Kylie Matte Lip Kit,kylie jenner lips,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,48003594125554,King Kylie Matte Lip Kit,true brown k,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,48003594158322,King Kylie Matte Lip Kit,dead of knight,changed,36.0,25.2,,36.0,True,True
+2026-11-25,Kylie Cosmetics,48003594191090,King Kylie Matte Lip Kit,a decade,changed,36.0,25.2,,36.0,False,False
+2026-11-25,Kylie Cosmetics,48003595272434,King Kylie Supple Kiss Lip Glaze,like,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48003595305202,King Kylie Supple Kiss Lip Glaze,she's back,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48003595337970,King Kylie Supple Kiss Lip Glaze,literally,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48018059231474,King Kylie Palette + Matte Lip Kit Duo,Default Title,changed,63.9,48.28,71.0,71.0,True,True
+2026-11-25,Kylie Cosmetics,48399747481842,Matte Lip Kit,bare,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,48402678644978,Gel Eyeliner Pencil,matte black,changed,18.0,12.6,,18.0,True,True
+2026-11-25,Kylie Cosmetics,48454639550706,Cosmic Kylie Jenner & Intense Pen Spray Gift Set,Default Title,removed,39.0,,,,False,
+2026-11-25,Kylie Cosmetics,48679513751794,Matte Lip Kit,better not pout,changed,35.0,24.5,,35.0,True,True
+2026-11-25,Kylie Cosmetics,48685504168178,Lip Oil,coconut,changed,25.0,17.5,,25.0,True,True
+2026-11-25,Kylie Cosmetics,48694627729650,Lip Butter,pomegranate,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48702435492082,Lip Sculpt & Diffuse Brush 10,Default Title,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,48713522086130,Lip Butter Bundle,Default Title,changed,113.4,85.68,126.0,126.0,True,True
+2026-11-25,Kylie Cosmetics,48741122834674,Precision Pout Lip Liner,moody nude,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,48741122867442,Precision Pout Lip Liner,cool nude,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,48741122900210,Precision Pout Lip Liner,chill brown,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,48741122932978,Precision Pout Lip Liner,something greige,changed,19.0,13.3,,19.0,True,True
+2026-11-25,Kylie Cosmetics,48741204066546,Lip Butter,butter cake,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48767494717682,Kylie Lips Pink Travel Case,Default Title,changed,27.0,18.9,,27.0,True,True
+2026-11-25,Kylie Cosmetics,48844296650994,Matte Liquid Lipstick,mary jo k,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,48947267076338,Vanilla Dew Hair & Body Mist,100ml,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48947290767602,Caramel Cloud Hair & Body Mist,100ml,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,48947647185138,Sweet Éclair Hair & Body Mist,100ml,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,49617363534066,Lip Butter,watermelon,changed,21.0,14.7,,21.0,True,True
+2026-11-25,Kylie Cosmetics,49655136780530,Cosmic Metallic Pink Tote Bag,Default Title,removed,25.0,,,,False,
+2026-11-25,Kylie Cosmetics,49834287137010,Cosmic Holiday Puffer Tote Bag,Default Title,new,,25.0,,,,True
+2026-11-25,Kylie Cosmetics,49834287268082,Cosmic Holiday Puffer Pouch,Default Title,new,,25.0,,,,True
+2026-11-25,Kylie Cosmetics,49919436128498,Pressed Bronzing Powder,tanned and gorgeous,changed,22.0,15.4,,22.0,True,True
+2026-11-25,Kylie Cosmetics,50085820989682,Cosmic Kylie Jenner 2.0 50ml & Pen Spray Duo Gift Set,Default Title,changed,66.0,46.2,,66.0,True,True
+2026-11-25,Kylie Cosmetics,67601035690226,Setting Powder,translucent,changed,28.0,19.6,,28.0,True,True
+2026-11-25,Kylie Cosmetics,67728153903346,Lipstick Holder Stocking Keychain,Default Title,new,,25.0,,,,True
+2026-11-25,Fenty Beauty,35110457966637,Slip Shine Sheer Shiny Lipstick — Quartz Candy,QUARTZ CANDY,changed,26.0,26.0,,,True,False
+2026-11-25,Fenty Beauty,39765590114349,Pre-Show Glow Instant Retexturizing 10% AHA Treatment + Reusable Applicator,Default Title,changed,42.0,42.0,,,True,False
+2026-11-25,Fenty Beauty,42636886573101,Deep Moisture Repair The Maintenance Crew Full-Size Bundle,Default Title,removed,133.0,,,,True,
+2026-11-25,Fenty Beauty,43202874900525,Let's Mesh Travel Bag,Default Title,new,,30.0,,,,True
+2026-11-25,Fenty Beauty,66965966979117,Pro Filt'r Fluid Flex Foundation Shade Sample —456W,456W,changed,4.0,4.0,,,True,False
+2026-11-25,Fenty Beauty,67448348016685,12 Dayz of Fenty Beauty + Fenty Skin 12-Piece Advent Calendar,Default Title,changed,190.0,190.0,284.0,284.0,True,False
