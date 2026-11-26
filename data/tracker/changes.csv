@@ -674,3 +674,1083 @@ date,brand,variant_id,product_title,variant_title,change,price_old,price_new,com
 2026-11-25,Fenty Beauty,43202874900525,Let's Mesh Travel Bag,Default Title,new,,30.0,,,,True
 2026-11-25,Fenty Beauty,66965966979117,Pro Filt'r Fluid Flex Foundation Shade Sample —456W,456W,changed,4.0,4.0,,,True,False
 2026-11-25,Fenty Beauty,67448348016685,12 Dayz of Fenty Beauty + Fenty Skin 12-Piece Advent Calendar,Default Title,changed,190.0,190.0,284.0,284.0,True,False
+2026-11-26,ColourPop,31384230920274,Ultimate Brush Roll,Default Title,changed,39.0,39.0,0.0,0.0,True,False
+2026-11-26,ColourPop,33170447433810,Wine and Only,Default Title,changed,14.0,14.0,0.0,0.0,False,True
+2026-11-26,ColourPop,39976254505042,CTRL,Default Title,changed,7.0,7.0,0.0,0.0,True,False
+2026-11-26,ColourPop,41233149296722,Triple Latte,Default Title,changed,18.0,18.0,0.0,0.0,True,False
+2026-11-26,ColourPop,41239167270994,Doin' the Most,Default Title,changed,74.0,74.0,0.0,0.0,True,False
+2026-11-26,ColourPop,41239270424658,Sweet Fantasy,Default Title,changed,74.0,74.0,0.0,0.0,True,False
+2026-11-26,ColourPop,41239408836690,Magical Skies,Default Title,changed,74.0,74.0,,,True,False
+2026-11-26,ColourPop,42169508626514,Buttery Pancakes,Default Title,changed,10.0,10.0,0.0,0.0,False,True
+2026-11-26,ColourPop,42211429220434,Shine. Shimmer. Repeat.,Default Title,changed,54.0,54.0,0.0,0.0,False,True
+2026-11-26,ColourPop,42704567304274,Pumpkin Spice,Default Title,new,,10.0,,,,False
+2026-11-26,ColourPop,42926944518226,Blend Necessities,Default Title,new,,74.0,,,,True
+2026-11-26,ColourPop,42926949761106,Colour Me Happy,Default Title,new,,74.0,,,,True
+2026-11-26,ColourPop,42926949892178,Metal to the Max,Default Title,new,,74.0,,,,True
+2026-11-26,Morphe,40554224812104,Soulmatte Velvet Lip Mousse,Wifey,removed,10.5,,14.0,,True,
+2026-11-26,Morphe,40554225238088,Soulmatte Filling Gel Lip Liner,Whipped,removed,6.75,,9.0,,True,
+2026-11-26,Morphe,40636061450312,Signature Lip Pencil,Wifey,changed,5.25,5.25,7.0,7.0,True,False
+2026-11-26,Morphe,41051644788808,Lip Filter & Signature Lip  Bundle,Ballet / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051645313096,Lip Filter & Signature Lip  Bundle,Teddy / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051645837384,Lip Filter & Signature Lip  Bundle,Petal / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051646361672,Lip Filter & Signature Lip  Bundle,Honey / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051646885960,Lip Filter & Signature Lip  Bundle,Dearest / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051647410248,Lip Filter & Signature Lip  Bundle,Whipped / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051647934536,Lip Filter & Signature Lip  Bundle,Souffle / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051648458824,Lip Filter & Signature Lip  Bundle,Suede / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051648983112,Lip Filter & Signature Lip  Bundle,Plush / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051649507400,Lip Filter & Signature Lip  Bundle,Beret / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051650031688,Lip Filter & Signature Lip  Bundle,Haze / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051650555976,Lip Filter & Signature Lip  Bundle,Velvet / Wifey,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-26,Morphe,41051702263880,Fully Covered Lip Bundle,Queen Bee / Ballet / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051702788168,Fully Covered Lip Bundle,Queen Bee / Teddy / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051703312456,Fully Covered Lip Bundle,Queen Bee / Petal / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051703836744,Fully Covered Lip Bundle,Queen Bee / Honey / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051704361032,Fully Covered Lip Bundle,Queen Bee / Dearest / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051704885320,Fully Covered Lip Bundle,Queen Bee / Whipped / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051705409608,Fully Covered Lip Bundle,Queen Bee / Souffle / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051705933896,Fully Covered Lip Bundle,Queen Bee / Suede / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051706458184,Fully Covered Lip Bundle,Queen Bee / Plush / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051706982472,Fully Covered Lip Bundle,Queen Bee / Beret / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051707506760,Fully Covered Lip Bundle,Queen Bee / Haze / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051708031048,Fully Covered Lip Bundle,Queen Bee / Velvet / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051708555336,Fully Covered Lip Bundle,Heat Swarm / Ballet / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051709079624,Fully Covered Lip Bundle,Heat Swarm / Teddy / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051709603912,Fully Covered Lip Bundle,Heat Swarm / Petal / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41051710128200,Fully Covered Lip Bundle,Heat Swarm / Honey / Wifey,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-26,Morphe,41243369996360,Signature Lip Pencil & Dripglass Crystal Super Shine Lip Gloss Bundle,Wifey,changed,15.0,15.0,20.0,20.0,True,False
+2026-11-26,Kylie Cosmetics,46729513894130,Lip Oil Desserts PR Box,Default Title,changed,65.8,65.8,94.0,94.0,True,False
+2026-11-26,Kylie Cosmetics,68094237343986,Vanity Case,Default Title,new,,25.0,,,,True
+2026-11-26,Rhode,46054384435438,peptide lip shape bend,Default Title,changed,24.0,24.0,,,False,True
+2026-11-26,Rhode,48035437150446,lip case,iphone 16 pro / colada,changed,38.0,38.0,,,True,False
+2026-11-26,Fenty Beauty,35110454460461,Hydra Vizor Refill Invisible Moisturizer Broad Spectrum Spf 30 Sunscreen with Niacinamide + Kalahari Melon,US,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110454493229,Hydra Vizor Refill Invisible Moisturizer SPF 30 with Niacinamide + Kalahari Melon — EU,EU,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110454722605,Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide + Kalahari Melon,Standard / US,changed,45.0,31.5,,45.0,True,True
+2026-11-26,Fenty Beauty,35110454755373,Hydra Vizor Invisible Moisturizer SPF 30 with Niacinamide + Kalahari Melon — EU,EU,changed,45.0,31.5,,45.0,True,True
+2026-11-26,Fenty Beauty,35110455377965,Stunna Lip Paint Longwear Fluid Lip Color — Underdawg,Underdawg,changed,29.0,18.85,,29.0,True,True
+2026-11-26,Fenty Beauty,35110457737261,Gloss Bomb Universal Lip Luminizer — Glass Slipper,Glass Slipper / Standard,changed,23.0,16.1,0.0,23.0,True,True
+2026-11-26,Fenty Beauty,35110457901101,Killawatt Freestyle Highlighter — Ruby Richez,RUBY RICHEZ,changed,40.0,28.0,,40.0,False,False
+2026-11-26,Fenty Beauty,35110457966637,Slip Shine Sheer Shiny Lipstick — Quartz Candy,QUARTZ CANDY,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110457999405,Slip Shine Sheer Shiny Lipstick — Retro Rose,RETRO ROSE,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110458032173,Slip Shine Sheer Shiny Lipstick — Vamps Who Brunch,VAMPS WHO BRUNCH,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110458097709,Slip Shine Sheer Shiny Lipstick — Cookies & Cocoa,COOKIES & COCOA,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110458130477,Slip Shine Sheer Shiny Lipstick — Bubble Rum,BUBBLE RUM,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110458228781,Slip Shine Sheer Shiny Lipstick — Goji Gang,GOJI GANG,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110458294317,Slip Shine Sheer Shiny Lipstick — Glazed,GLAZED,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,35110458425389,Cheeks Out Freestyle Cream Bronzer — Toffee Tease,TOFFEE TEASE,changed,36.0,23.4,,36.0,True,True
+2026-11-26,Fenty Beauty,35110458490925,Cheeks Out Freestyle Cream Bronzer — Chocolate,CHOCOLATE,changed,36.0,23.4,,36.0,True,True
+2026-11-26,Fenty Beauty,35110458523693,Cheeks Out Freestyle Cream Bronzer — Teddy,TEDDY,changed,36.0,23.4,,36.0,True,True
+2026-11-26,Fenty Beauty,35110458556461,Cheeks Out Freestyle Cream Bronzer — Hunnie Glaze,HUNNIE GLAZE,changed,36.0,23.4,,36.0,True,True
+2026-11-26,Fenty Beauty,35110458589229,Cheeks Out Freestyle Cream Bronzer — Macchiato,MACCHIATO,changed,36.0,23.4,,36.0,True,True
+2026-11-26,Fenty Beauty,35110458621997,Cheeks Out Freestyle Cream Bronzer — Butta Biscuit,BUTTA BISCUIT,changed,36.0,25.2,,36.0,False,False
+2026-11-26,Fenty Beauty,35110458654765,Cheeks Out Freestyle Cream Bronzer — Amber,Amber,changed,36.0,23.4,,36.0,True,True
+2026-11-26,Fenty Beauty,35110458720301,Face Shaping Brush 125,Default Title,changed,34.0,20.4,,34.0,True,True
+2026-11-26,Fenty Beauty,35110458851373,Gloss Bomb Universal Lip Luminizer — Hot Chocolit,Hot Chocolit / Standard,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,35110458884141,Gloss Bomb Universal Lip Luminizer — $weet Mouth,$weet Mouth / Standard,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,35110458949677,Cheeks Out Freestyle Cream Blush — Drama Cla$$,DRAMA CLA$$,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,35110458982445,Cheeks Out Freestyle Cream Blush — Daiquiri Dip,DAIQUIRI DIP,changed,28.0,19.6,,28.0,False,False
+2026-11-26,Fenty Beauty,35110459015213,Cheeks Out Freestyle Cream Blush — Fuego Flush,FUEGO FLUSH,changed,28.0,19.6,,28.0,False,False
+2026-11-26,Fenty Beauty,35110459047981,Cheeks Out Freestyle Cream Blush — Rosé Latte,Rosé Latte,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,35110459146285,Cheeks Out Freestyle Cream Blush — Cool Berry,COOL BERRY,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,35110459211821,Cheeks Out Freestyle Cream Blush — Summertime Wine,SUMMERTIME WINE,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,35110459244589,Cheeks Out Freestyle Cream Blush — Strawberry Drip,STRAWBERRY DRIP,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,35110459342893,Cheeks Out Freestyle Cream Blush — Petal Poppin,PETAL POPPIN,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,35110459670573,Plush Eyeshadow Brush 240,Default Title,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,35110459703341,Precise Definition Eyeshadow Brush 220,Default Title,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,35110459736109,Precision Blending Brush 230,Default Title,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,35110459834413,Flypencil Longwear Pencil Eyeliner — Puppy Eyez,PUPPY EYEZ,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110459867181,Flypencil Longwear Pencil Eyeliner — Bad Bride,BAD BRIDE,changed,23.0,9.2,,23.0,True,True
+2026-11-26,Fenty Beauty,35110459899949,Flypencil Longwear Pencil Eyeliner — Grillz,GRILLZ,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110459998253,Flypencil Longwear Pencil Eyeliner — Cherry Punk,CHERRY PUNK,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460096557,Flypencil Longwear Pencil Eyeliner — Bank Tank,BANK TANK,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460162093,Flypencil Longwear Pencil Eyeliner — Lady Lagoon,LADY LAGOON,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460194861,Flypencil Longwear Pencil Eyeliner — Sea About It,SEA ABOUT IT,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460260397,Flypencil Longwear Pencil Eyeliner — Purple Stuff,PURPLE STUFF,changed,23.0,9.2,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460325933,Flypencil Longwear Pencil Eyeliner — Navy Or Die,NAVY OR DIE,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460358701,Flypencil Longwear Pencil Eyeliner — Space Cookie,SPACE COOKIE,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460391469,Flypencil Longwear Pencil Eyeliner — Black Card,BLACK CARD,changed,23.0,9.2,,23.0,True,True
+2026-11-26,Fenty Beauty,35110460424237,Flypencil Longwear Pencil Eyeliner — Purp-A-Trader,PURP-A-TRADER,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110460457005,Flypencil Longwear Pencil Eyeliner — In Big Truffle,IN BIG TRUFFLE,changed,23.0,9.2,,23.0,True,True
+2026-11-26,Fenty Beauty,35110460489773,Flypencil Longwear Pencil Eyeliner — Bachelor Pad,BACHELOR PAD,changed,23.0,9.2,,23.0,True,True
+2026-11-26,Fenty Beauty,35110460522541,Flypencil Longwear Pencil Eyeliner — Cuz I'm Black,Cuz I'm Black,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,35110462488621,Brow MVP Ultra Fine Brow Pencil & Styler — Deep Black,DEEP BLACK,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110462521389,Brow MVP Ultra Fine Brow Pencil & Styler — Soft Black,SOFT BLACK,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110462947373,Kabuki-Buff Foundation Brush 115,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,35110462980141,Brow MVP Ultra Fine Brow Pencil & Styler — Medium Brown,MEDIUM BROWN,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110463012909,Brow MVP Ultra Fine Brow Pencil & Styler — Light Brown,LIGHT BROWN,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110463045677,Brow MVP Ultra Fine Brow Pencil & Styler — Ash Brown,ASH BROWN,changed,25.0,17.5,,25.0,False,False
+2026-11-26,Fenty Beauty,35110463078445,Brow MVP Ultra Fine Brow Pencil & Styler — Dark Auburn,DARK AUBURN,changed,25.0,17.5,,25.0,False,False
+2026-11-26,Fenty Beauty,35110463111213,Brow MVP Ultra Fine Brow Pencil & Styler — True Red,TRUE RED,changed,25.0,17.5,,25.0,False,False
+2026-11-26,Fenty Beauty,35110463143981,Brow MVP Ultra Fine Brow Pencil & Styler — Auburn,AUBURN,changed,25.0,17.5,,25.0,False,False
+2026-11-26,Fenty Beauty,35110463176749,Brow MVP Ultra Fine Brow Pencil & Styler — Soft Red,SOFT RED,changed,25.0,17.5,,25.0,False,False
+2026-11-26,Fenty Beauty,35110463242285,Brow MVP Ultra Fine Brow Pencil & Styler — Dark Ash Blonde,DARK ASH BLONDE,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110463275053,Brow MVP Ultra Fine Brow Pencil & Styler — Medium Blonde,MEDIUM BLONDE,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110463307821,Brow MVP Ultra Fine Brow Pencil & Styler — Light Blonde,LIGHT BLONDE,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110463373357,Brow MVP Ultra Fine Brow Pencil & Styler — Black-Brown,BLACK-BROWN,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110463406125,Brow MVP Ultra Fine Brow Pencil & Styler — Dark Brown,DARK BROWN,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,35110466912301,Lil Precision Makeup Sponge Duo 105,Default Title,changed,18.0,10.8,,18.0,True,True
+2026-11-26,Fenty Beauty,35110466977837,Sculpting Bronzer Brush 195,Default Title,changed,34.0,23.8,,34.0,True,True
+2026-11-26,Fenty Beauty,35110467272749,Sun Stalk'r Instant Warmth Bronzer — Coco Naughty,Coco Naughty,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,35110467403821,Sun Stalk'r Instant Warmth Bronzer — Private Island,Private Island,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,35110467469357,Sun Stalk'r Instant Warmth Bronzer — Inda Sun,Inda Sun,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,35110468157485,Precision Concealer Brush 180,Default Title,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,35110468485165,Killawatt Freestyle Highlighter — Afternoon Snack/Mo' Hunny,Afternoon Snack/Mo' Hunny,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110468550701,Killawatt Freestyle Highlighter — Wattabrat,Wattabrat,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110472548397,Stunna Lip Paint Longwear Fluid Lip Color — Unlocked,Unlocked,changed,29.0,20.3,,29.0,False,False
+2026-11-26,Fenty Beauty,35110472646701,Stunna Lip Paint Longwear Fluid Lip Color — Unveil,Unveil / Mini,changed,18.0,11.7,,18.0,True,True
+2026-11-26,Fenty Beauty,35110472679469,Stunna Lip Paint Longwear Fluid Lip Color — Uncuffed,Uncuffed / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,35110472712237,Gloss Bomb Universal Lip Luminizer — Fu$$y,Fu$$y / Standard,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,35110473236525,Flyliner Longwear Liquid Eyeliner — Cuz I'm Black,Cuz I'm Black,changed,24.0,9.6,,24.0,True,True
+2026-11-26,Fenty Beauty,35110473891885,Cheek-Hugging Bronzer Brush 190,Default Title,changed,36.0,21.6,,36.0,True,True
+2026-11-26,Fenty Beauty,35110473924653,Powder Puff Setting Brush 170,Default Title,changed,34.0,20.4,,34.0,True,True
+2026-11-26,Fenty Beauty,35110475300909,Precision Makeup Sponge 100,Default Title,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,35110478577709,Cheek-Hugging Highlight Brush 120,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,35110478610477,Full-Bodied Foundation Brush 110,Default Title,changed,34.0,23.8,,34.0,True,True
+2026-11-26,Fenty Beauty,35110478774317,Gloss Bomb Universal Lip Luminizer — Fenty Glow,Fenty Glow / Standard,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,35110478807085,Killawatt Freestyle Highlighter — Ginger Binge/Moscow Mule,Ginger Binge/Moscow Mule,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110478872621,Killawatt Freestyle Highlighter — Mean Money/Hu$tla Baby,Mean Money/Hu$tla Baby,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110478905389,Killawatt Freestyle Highlighter — Girl Next Door/Chic Phreak,Girl Next Door/Chic Phreak,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110478938157,Killawatt Freestyle Highlighter — Lightning Dust/Fire Crystal,Lightning Dust/Fire Crystal,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110479167533,Killawatt Freestyle Highlighter — Trophy Wife,Trophy Wife,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35110479790125,Stunna Lip Paint Longwear Fluid Lip Color — Uncensored,Uncensored / Mini,changed,18.0,12.6,,18.0,True,True
+2026-11-26,Fenty Beauty,35178862444589,Pro Filt'r Soft Matte Longwear Foundation — #100,#100 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178862608429,Pro Filt'r Soft Matte Longwear Foundation — #110,#110 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178862641197,Pro Filt'r Soft Matte Longwear Foundation — #120,#120 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178862673965,Pro Filt'r Soft Matte Longwear Foundation — #130,#130 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178862739501,Pro Filt'r Soft Matte Longwear Foundation — #140,#140 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178862805037,Pro Filt'r Soft Matte Longwear Foundation — #150,#150 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863067181,Pro Filt'r Soft Matte Longwear Foundation — #160,#160 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863099949,Pro Filt'r Soft Matte Longwear Foundation — #170,#170 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863165485,Pro Filt'r Soft Matte Longwear Foundation — #185,#185 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863198253,Pro Filt'r Soft Matte Longwear Foundation — #190,#190 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863263789,Pro Filt'r Soft Matte Longwear Foundation — #200,#200 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863296557,Pro Filt'r Soft Matte Longwear Foundation — #210,#210 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863329325,Pro Filt'r Soft Matte Longwear Foundation — #220,#220 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863394861,Pro Filt'r Soft Matte Longwear Foundation — #230,#230 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863460397,Pro Filt'r Soft Matte Longwear Foundation — #235,#235 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863493165,Pro Filt'r Soft Matte Longwear Foundation — #240,#240 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863558701,Pro Filt'r Soft Matte Longwear Foundation — #250,#250 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863624237,Pro Filt'r Soft Matte Longwear Foundation — #260,#260 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863755309,Pro Filt'r Soft Matte Longwear Foundation — #280,#280 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863788077,Pro Filt'r Soft Matte Longwear Foundation — #290,#290 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863820845,Pro Filt'r Soft Matte Longwear Foundation — #300,#300 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863853613,Pro Filt'r Soft Matte Longwear Foundation — #310,#310 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178863951917,Pro Filt'r Soft Matte Longwear Foundation — #330,#330 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864050221,Pro Filt'r Soft Matte Longwear Foundation — #345,#345 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864082989,Pro Filt'r Soft Matte Longwear Foundation — #350,#350 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864115757,Pro Filt'r Soft Matte Longwear Foundation — #360,#360 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864246829,Pro Filt'r Soft Matte Longwear Foundation — #370,#370 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864377901,Pro Filt'r Soft Matte Longwear Foundation — #385,#385 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864410669,Pro Filt'r Soft Matte Longwear Foundation — #390,#390 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864443437,Pro Filt'r Soft Matte Longwear Foundation — #400,#400 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864476205,Pro Filt'r Soft Matte Longwear Foundation — #410,#410 / Standard,changed,40.0,20.0,,40.0,False,False
+2026-11-26,Fenty Beauty,35178864508973,Pro Filt'r Soft Matte Longwear Foundation — #420,#420 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864705581,Pro Filt'r Soft Matte Longwear Foundation — #430,#430 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178864771117,Pro Filt'r Soft Matte Longwear Foundation — #440,#440 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178865000493,Pro Filt'r Soft Matte Longwear Foundation — #445,#445 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178865098797,Pro Filt'r Soft Matte Longwear Foundation — #450,#450 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178865295405,Pro Filt'r Soft Matte Longwear Foundation — #470,#470 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178865360941,Pro Filt'r Soft Matte Longwear Foundation — #480,#480 / Standard,changed,40.0,20.0,,40.0,False,False
+2026-11-26,Fenty Beauty,35178865459245,Pro Filt'r Soft Matte Longwear Foundation — #490,#490 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178865524781,Pro Filt'r Soft Matte Longwear Foundation — #495,#495 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178865623085,Pro Filt'r Soft Matte Longwear Foundation — #498,#498 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,35178866049069,Pro Filt'r Soft Matte Powder Foundation — #110,#110,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866212909,Pro Filt'r Soft Matte Powder Foundation — #130,#130,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866245677,Pro Filt'r Soft Matte Powder Foundation — #140,#140,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866507821,Pro Filt'r Soft Matte Powder Foundation — #180,#180,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866671661,Pro Filt'r Soft Matte Powder Foundation — #200,#200,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866901037,Pro Filt'r Soft Matte Powder Foundation — #235,#235,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866966573,Pro Filt'r Soft Matte Powder Foundation — #250,#250,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178866999341,Pro Filt'r Soft Matte Powder Foundation — #255,#255,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867064877,Pro Filt'r Soft Matte Powder Foundation — #270,#270,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867097645,Pro Filt'r Soft Matte Powder Foundation — #280,#280,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867294253,Pro Filt'r Soft Matte Powder Foundation — #320,#320,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867523629,Pro Filt'r Soft Matte Powder Foundation — #370,#370,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867654701,Pro Filt'r Soft Matte Powder Foundation — #390,#390,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867687469,Pro Filt'r Soft Matte Powder Foundation — #400,#400,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867720237,Pro Filt'r Soft Matte Powder Foundation — #410,#410,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867818541,Pro Filt'r Soft Matte Powder Foundation — #440,#440,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178867949613,Pro Filt'r Soft Matte Powder Foundation — #450,#450,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178868441133,Pro Filt'r Soft Matte Powder Foundation — #460,#460,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178868998189,Pro Filt'r Soft Matte Powder Foundation — #470,#470,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178869030957,Pro Filt'r Soft Matte Powder Foundation — #480,#480,changed,20.0,10.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,35178869063725,Pro Filt'r Soft Matte Powder Foundation — #490,#490,changed,20.0,10.0,40.0,20.0,True,True
+2026-11-26,Fenty Beauty,35178869162029,Pro Filt'r Soft Matte Powder Foundation — #498,#498,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,39329802518573,Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,Standard,changed,38.0,24.7,,38.0,True,True
+2026-11-26,Fenty Beauty,39329804746797,Instant Reset Brightening Overnight Recovery Gel-Cream with Niacinamide + Kalahari Melon Oil,Standard,changed,48.0,31.2,,48.0,True,True
+2026-11-26,Fenty Beauty,39342953693229,Body Sauce Body Luminizing Tint — Sinamon Sizzle,Sinamon Sizzle,changed,52.0,31.2,,52.0,True,True
+2026-11-26,Fenty Beauty,39355630387245,Eaze Drop Lightweight Blurring Skin Tint — 1,1,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630420013,Eaze Drop Lightweight Blurring Skin Tint — 4,4,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630452781,Eaze Drop Lightweight Blurring Skin Tint — 16,16,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630485549,Eaze Drop Lightweight Blurring Skin Tint — 24,24,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630518317,Eaze Drop Lightweight Blurring Skin Tint — 14,14,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630551085,Eaze Drop Lightweight Blurring Skin Tint — 5,5,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630583853,Eaze Drop Lightweight Blurring Skin Tint — 17,17,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630616621,Eaze Drop Lightweight Blurring Skin Tint — 22,22,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630649389,Eaze Drop Lightweight Blurring Skin Tint — 11,11,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630682157,Eaze Drop Lightweight Blurring Skin Tint — 15,15,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630714925,Eaze Drop Lightweight Blurring Skin Tint — 25,25,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630747693,Eaze Drop Lightweight Blurring Skin Tint — 10,10,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630780461,Eaze Drop Lightweight Blurring Skin Tint — 19,19,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630813229,Eaze Drop Lightweight Blurring Skin Tint — 13,13,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630845997,Eaze Drop Lightweight Blurring Skin Tint — 20,20,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630878765,Eaze Drop Lightweight Blurring Skin Tint — 23,23,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630911533,Eaze Drop Lightweight Blurring Skin Tint — 8,8,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630944301,Eaze Drop Lightweight Blurring Skin Tint — 12,12,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355630977069,Eaze Drop Lightweight Blurring Skin Tint — 6,6,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355631009837,Eaze Drop Lightweight Blurring Skin Tint — 18,18,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355631042605,Eaze Drop Lightweight Blurring Skin Tint — 3,3,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355631075373,Eaze Drop Lightweight Blurring Skin Tint — 21,21,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355631108141,Eaze Drop Lightweight Blurring Skin Tint — 2,2,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355631140909,Eaze Drop Lightweight Blurring Skin Tint — 7,7,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39355631173677,Eaze Drop Lightweight Blurring Skin Tint — 9,9,changed,41.0,28.7,,41.0,True,True
+2026-11-26,Fenty Beauty,39374694055981,Sun Stalk'r Instant Warmth Bronzer — Thick Mint,Thick Mint,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,39409205542957,Face & Body Kabuki Brush 160,Default Title,changed,34.0,20.4,,34.0,True,True
+2026-11-26,Fenty Beauty,39448095064109,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Hot Cherry,Hot Cherry / Standard,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,39594417848365,Flyliner Longwear Liquid Eyeliner — In Big Truffle,In Big Truffle,changed,24.0,9.6,,24.0,True,True
+2026-11-26,Fenty Beauty,39594583228461,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Fu$$Y Heat,Fu$$Y Heat / Standard,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,39594585161773,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Hot Chocolit Heat,Hot Chocolit Heat,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,39594588274733,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Fenty Glow Heat,Fenty Glow Heat,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,39765590114349,Pre-Show Glow Instant Retexturizing 10% AHA Treatment + Reusable Applicator,Default Title,changed,42.0,27.3,,42.0,False,False
+2026-11-26,Fenty Beauty,39765591359533,Pre-Show Glow Instant Retexturizing 10% AHA Treatment Refill,Default Title,changed,34.0,22.1,,34.0,True,True
+2026-11-26,Fenty Beauty,40094904516653,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Lemon Lava,Lemon Lava,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,40240683024429,Cookies N Clean Whipped Clay Pore Detox Face Mask With Salicylic Acid + Charcoal,Default Title,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,40245449097261,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Lavender Savage,Lavender Savage,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,40383201968173,Poutsicle Hydrating Lip Stain — Mai Type,Mai Type,changed,28.0,16.8,,28.0,True,True
+2026-11-26,Fenty Beauty,40383208849453,Poutsicle Hydrating Lip Stain — Zesty Bestie,Zesty Bestie,changed,28.0,16.8,,28.0,True,True
+2026-11-26,Fenty Beauty,40390335397933,Poutsicle Hydrating Lip Stain — Strawberry Sangria,Strawberry Sangria,changed,28.0,16.8,,28.0,True,True
+2026-11-26,Fenty Beauty,40390347423789,Poutsicle Hydrating Lip Stain — Berry Banger,Berry Banger,changed,28.0,16.8,,28.0,True,True
+2026-11-26,Fenty Beauty,40612835655725,Fat Water Hydrating Milky Toner Essence with Hyaluronic Acid + Tamarind,Default Title,changed,38.0,24.7,,38.0,True,True
+2026-11-26,Fenty Beauty,40612859412525,The Fenty Skin Soap Dish,Default Title,changed,10.0,7.0,,10.0,True,True
+2026-11-26,Fenty Beauty,40620393201709,Testing PDP,Default Title,changed,30.0,21.0,36.0,30.0,False,False
+2026-11-26,Fenty Beauty,40839958036525,Pro Filt'r Soft Matte Longwear Foundation — #125,#125 / Standard,changed,40.0,28.0,,40.0,False,False
+2026-11-26,Fenty Beauty,40839994834989,Pro Filt'r Soft Matte Longwear Foundation — #175,#175 / Standard,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,40840035762221,Pro Filt'r Soft Matte Longwear Foundation — #225,#225 / Standard,changed,40.0,28.0,,40.0,False,False
+2026-11-26,Fenty Beauty,40840130527277,Pro Filt'r Soft Matte Longwear Foundation — #265,#265 / Standard,changed,40.0,28.0,,40.0,False,False
+2026-11-26,Fenty Beauty,40840133214253,Pro Filt'r Soft Matte Longwear Foundation — #295,#295 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,40840140619821,Pro Filt'r Soft Matte Longwear Foundation — #315,#315 / Standard,changed,40.0,20.0,,40.0,False,False
+2026-11-26,Fenty Beauty,40840149139501,Pro Filt'r Soft Matte Longwear Foundation — #335,#335 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,40840156348461,Pro Filt'r Soft Matte Longwear Foundation — #425,#425 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,40840159821869,Pro Filt'r Soft Matte Longwear Foundation — #485,#485 / Standard,changed,40.0,20.0,,40.0,True,True
+2026-11-26,Fenty Beauty,40840302526509,Gloss Bomb Ice Cooling Lip Luminizer — Cold Heart'd,Cold Heart'd,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,40848524673069,Match Stix Contour Skinstick — Soft Amber,Soft Amber,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,40923176370221,Match Stix Sculpt’r Squad,Default Title,changed,81.0,67.0,,97.0,True,True
+2026-11-26,Fenty Beauty,41303670226989,Match Stix Shimmer Skinstick — Sinamon,Sinamon,changed,32.0,22.4,,32.0,False,False
+2026-11-26,Fenty Beauty,41395962773549,Fenty Icon Velvet Liquid Lipstick — RiRi,RiRi,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41396089192493,Fenty Icon Velvet Liquid Lipstick — The MVP,The MVP,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41396109017133,Fenty Icon Velvet Liquid Lipstick — H.B.I.C.,H.B.I.C.,changed,29.0,14.5,29.0,29.0,True,True
+2026-11-26,Fenty Beauty,41396167835693,Fenty Icon Velvet Liquid Lipstick — Bread Winn'r,Bread Winn'r,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41453469368365,Fenty Icon Velvet Liquid Lipstick — C-Suite'Heart,C-Suite'Heart,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41467308376109,Match Stix Shimmer Skinstick — Champagne Heist,CHAMPAGNE HEIST,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41467435778093,Match Stix Shimmer Skinstick — Yacht Lyfe,Yacht Lyfe,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41467442200621,Match Stix Shimmer Skinstick — Starstruck,Starstruck,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41471038390317,Match Stix Shimmer Skinstick — Confetti,Confetti,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41471054544941,Match Stix Shimmer Skinstick — I Scream,I Scream,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41471065260077,Match Stix Shimmer Skinstick — Crown'd,Crown'd,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41471067127853,Match Stix Shimmer Skinstick — Truffle Spark,Truffle Spark,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41471068799021,Match Stix Contour Skinstick — Amber,Amber,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471075090477,Match Stix Contour Skinstick — Mocha,Mocha,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471078268973,Match Stix Contour Skinstick — Truffle,Truffle,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471081545773,Match Stix Contour Skinstick — Espresso,Espresso,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471083544621,Match Stix Contour Skinstick — Ebony,Ebony,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471088295981,Match Stix Contour Skinstick — Caviar,CAVIAR,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471097405485,Match Stix Contour Skinstick — Amber Suede,Amber Suede,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471180832813,Match Stix Contour Skinstick — Suedish,Suedish,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,41471194267693,Match Stix Correcting Skinstick — Rose Quartz,Rose Quartz,changed,32.0,19.2,,32.0,True,True
+2026-11-26,Fenty Beauty,41471203344429,Match Stix Correcting Skinstick — Banana,Banana,changed,32.0,22.4,,32.0,False,False
+2026-11-26,Fenty Beauty,41475996942381,Match Stix Correcting Skinstick — Peach,Peach,changed,32.0,22.4,,32.0,False,False
+2026-11-26,Fenty Beauty,41475999170605,Match Stix Correcting Skinstick — Pumpkin,Pumpkin,changed,32.0,19.2,,32.0,True,True
+2026-11-26,Fenty Beauty,41508071047213,Showstopp'r Football Sponge,Default Title,changed,16.0,11.2,,16.0,True,False
+2026-11-26,Fenty Beauty,41508209557549,Showstopp'r Undereye Sticker,Default Title,changed,12.0,6.0,,12.0,True,True
+2026-11-26,Fenty Beauty,41524070645805,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Glass Slipper,Glass Slipper,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41531397472301,Hella Thicc Volumizing Mascara — Cuz I'm Black,Cuz I'm Black / Standard,changed,22.0,15.4,,22.0,True,True
+2026-11-26,Fenty Beauty,41531431256109,Fenty Skin Travel-Size Start'r Set with Mineral SPF - EU,EU,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,41531440529453,Fenty Skin Travel-Size Start'r Set with Mineral SPF - AU/NZ,AU/NZ,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,41542172573741,Fenty Skin Travel-Size Start'r Set with Mineral SPF: Dry Skin Edition - EU,EU,changed,49.0,34.3,,49.0,True,True
+2026-11-26,Fenty Beauty,41547263836205,Hydra Vizor Broad Spectrum Mineral SPF 30 Sunscreen Moisturizer,US / Standard,changed,45.0,31.5,,45.0,True,True
+2026-11-26,Fenty Beauty,41547291328557,Hydra Vizor Broad Spectrum Mineral SPF 30 Sunscreen Moisturizer - EU,EU,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41547304271917,Hydra Vizor Broad Spectrum Mineral SPF 15 Sunscreen Moisturizer,AU/NZ,changed,45.0,31.5,,45.0,True,True
+2026-11-26,Fenty Beauty,41547351785517,Hydra Vizor Broad Spectrum Mineral SPF 30 Sunscreen Moisturizer Refill,US,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41547412635693,Hydra Vizor Broad Spectrum Mineral SPF 30 Sunscreen Moisturizer Refill - EU,EU,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41547427446829,Hydra Vizor Broad Spectrum Mineral SPF 15 Sunscreen Moisturizer Refill,AU/NZ,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41547459559469,Hydra Vizor Mini Broad Spectrum Mineral SPF 30 Sunscreen Moisturizer,US,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41547524735021,Hydra Vizor Mini Mineral SPF 30 Sunscreen Moisturizer - EU,EU,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41547542265901,Hydra Vizor Mini Mineral SPF 15 Sunscreen Moisturizer,AU/NZ,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41572595531821,Blemish Defeat'r BHA Spot-Targeting Gel,Default Title,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,41588749238317,Gloss Bomb Universal Lip Luminizer — RiRi,RiRi / Standard,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,41593197297709,Match Stix Color Adaptive Cheek + Lip Stick — Strawberry Pop,Regular,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,41593241010221,Poutsicle Hydrating Lip Stain — Fuchsia Wife,Fuchsia Wife,changed,28.0,19.6,,28.0,False,False
+2026-11-26,Fenty Beauty,41593244418093,Poutsicle Hydrating Lip Stain — Gem and I,Gem and I,changed,28.0,16.8,,28.0,True,True
+2026-11-26,Fenty Beauty,41601292435501,Cheeks Out Freestyle Cream Blush — Riri,Riri,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,41601320681517,Cheeks Out Freestyle Cream Blush — Pinky Promise,Pinky Promise,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,41601323925549,Cheeks Out Freestyle Cream Blush — Peach Face,Peach Face,changed,28.0,19.6,,28.0,False,False
+2026-11-26,Fenty Beauty,41601324810285,Cheeks Out Freestyle Cream Blush — Raisin Standardz,Raisin Standardz,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,41601327431725,Cheeks Out Freestyle Cream Blush — Big Melons,Big Melons,changed,28.0,18.2,,28.0,True,True
+2026-11-26,Fenty Beauty,41602109374509,Gloss Bomb Universal Lip Luminizer — Hot Chocolit Fantasy,HOT CHOCOLIT FANTASY,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,41602208923693,Eaze Drop Blur + Smooth Tint Stick — 1,1,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41602242740269,Eaze Drop Blur + Smooth Tint Stick — 2,2,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41602256437293,Eaze Drop Blur + Smooth Tint Stick — 3,3,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41602262794285,Eaze Drop Blur + Smooth Tint Stick — 4,4,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41602274459693,Eaze Drop Blur + Smooth Tint Stick — 5,5,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41602290548781,Eaze Drop Blur + Smooth Tint Stick — 6,6,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41602294087725,Eaze Drop Blur + Smooth Tint Stick — 7,7,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41611726848045,Gloss Bomb Cream Color Drip Lip Cream — Fenty Glow,Fenty Glow,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,41611735760941,Gloss Bomb Cream Color Drip Lip Cream — Fruit Snackz,Fruit Snackz,changed,23.0,14.95,,23.0,True,True
+2026-11-26,Fenty Beauty,41611742347309,Gloss Bomb Cream Color Drip Lip Cream — Cookie Jar,Cookie Jar,changed,23.0,14.95,,23.0,True,True
+2026-11-26,Fenty Beauty,41611744509997,Gloss Bomb Cream Color Drip Lip Cream — Mauve Wive$,Mauve Wive$,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,41611745067053,Gloss Bomb Cream Color Drip Lip Cream — Honey Waffles,Honey Waffles,changed,23.0,14.95,,23.0,True,True
+2026-11-26,Fenty Beauty,41630200037421,Eaze Drop Blur + Smooth Tint Stick — 8,8,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630201348141,Eaze Drop Blur + Smooth Tint Stick — 9,9,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630202855469,Eaze Drop Blur + Smooth Tint Stick — 10,10,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630299553837,Eaze Drop Blur + Smooth Tint Stick — 11,11,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630300373037,Eaze Drop Blur + Smooth Tint Stick — 12,12,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630306664493,Eaze Drop Blur + Smooth Tint Stick — 13,13,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630309580845,Eaze Drop Blur + Smooth Tint Stick — 14,14,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630310826029,Eaze Drop Blur + Smooth Tint Stick — 15,15,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630311874605,Eaze Drop Blur + Smooth Tint Stick — 16,16,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630312661037,Eaze Drop Blur + Smooth Tint Stick — 17,17,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630313742381,Eaze Drop Blur + Smooth Tint Stick — 18,18,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630321934381,Eaze Drop Blur + Smooth Tint Stick — 19,19,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630322393133,Eaze Drop Blur + Smooth Tint Stick — 20,20,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630326554669,Eaze Drop Blur + Smooth Tint Stick — 21,21,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630328324141,Eaze Drop Blur + Smooth Tint Stick — 22,22,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630329503789,Eaze Drop Blur + Smooth Tint Stick — 23,23,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630330159149,Eaze Drop Blur + Smooth Tint Stick — 24,24,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41630330683437,Eaze Drop Blur + Smooth Tint Stick — 25,25,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,41650131107885,Shadowstix Longwear Eyeshadow Stick — Sip & Sparkle,Sip & Sparkle,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41650169249837,Shadowstix Longwear Eyeshadow Stick — Bellini Ba$h,Bellini Ba$h,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41650177146925,Shadowstix Longwear Eyeshadow Stick — Fizzy Frosé,Fizzy Frosé,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41650198511661,Shadowstix Longwear Eyeshadow Stick — Candy Rapper,Candy Rapper,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41650216665133,Shadowstix Longwear Eyeshadow Stick — Get On Taupe,Get On Taupe,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658894778413,Shadowstix Longwear Eyeshadow Stick — Gold Hoopz,Gold Hoopz,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658896187437,Shadowstix Longwear Eyeshadow Stick — Copp'd That,Copp'd That,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658906083373,Shadowstix Longwear Eyeshadow Stick — U Ain't Reddy,U Ain't Reddy,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658907164717,Shadowstix Longwear Eyeshadow Stick — Amber,Amber,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658907230253,Shadowstix Longwear Eyeshadow Stick — Tira'Miss You,Tira'Miss You,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658907721773,Shadowstix Longwear Eyeshadow Stick — Cumin Get It,Cumin Get It,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658909032493,Shadowstix Longwear Eyeshadow Stick — Shroom Mate,Shroom Mate,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658910015533,Shadowstix Longwear Eyeshadow Stick — Nut All Men,Nut All Men,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658910277677,Shadowstix Longwear Eyeshadow Stick — In Big Truffle,In Big Truffle,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658910375981,Shadowstix Longwear Eyeshadow Stick — Brownie Badd'r,Brownie Badd'r,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41658911195181,Shadowstix Longwear Eyeshadow Stick — Cuz I'm Black,Cuz I'm Black,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,41669436702765,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Fenty Fresh,Fenty Fresh / Standard,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,41669453283373,Hydra’Reset Intensive Recovery Glycerin Hand Mask,Regular,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,41669483823149,Fenty Eau de Parfum,Standard,changed,140.0,98.0,,140.0,False,False
+2026-11-26,Fenty Beauty,41680730652717,Fenty Icon Velvet Liquid Lipstick — Noodz & Dudez,Noodz & Dudez,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41680831217709,Fenty Icon Velvet Liquid Lipstick — Fashion Fiend,Fashion Fiend,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41680844718125,Fenty Icon Velvet Liquid Lipstick — Pow'r Thirsty,Pow'r Thirsty,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41680845602861,Fenty Icon Velvet Liquid Lipstick — Truth Fairy,Truth Fairy,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41680854417453,Fenty Icon Velvet Liquid Lipstick — Fiyaproof,Fiyaproof,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41680856449069,Fenty Icon Velvet Liquid Lipstick — Wicked Whine,Wicked Whine,changed,29.0,14.5,,29.0,True,True
+2026-11-26,Fenty Beauty,41711132409901,Gloss Bomb Universal Lip Luminizer — Champ Stamp Fantasy,Champ Stamp Fantasy,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,41739387240493,LED Compact Mirror,Default Title,changed,35.0,24.5,,35.0,False,False
+2026-11-26,Fenty Beauty,41747890733101,LED Vanity Mirror,Default Title,changed,65.0,45.5,,65.0,True,True
+2026-11-26,Fenty Beauty,41959388348461,Gloss Bomb Universal Lip Luminizer — Fuchsia Flex,Fuschia Flex,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,41959388545069,We're Even Hydrating Longwear Concealer — 100C,100C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959391166509,We're Even Hydrating Longwear Concealer — 110W,110W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959392804909,We're Even Hydrating Longwear Concealer — 120N,120N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393656877,We're Even Hydrating Longwear Concealer — 125C,125C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393820717,We're Even Hydrating Longwear Concealer — 130W,130W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393853485,We're Even Hydrating Longwear Concealer — 140N,140N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393886253,We're Even Hydrating Longwear Concealer — 150N,150N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393919021,We're Even Hydrating Longwear Concealer — 160W,160W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393951789,We're Even Hydrating Longwear Concealer — 170C,170C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959393984557,We're Even Hydrating Longwear Concealer — 175W,175W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394017325,We're Even Hydrating Longwear Concealer — 185C,185C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394050093,We're Even Hydrating Longwear Concealer — 190W,190W / Standard,changed,34.0,23.8,34.0,34.0,False,False
+2026-11-26,Fenty Beauty,41959394082861,We're Even Hydrating Longwear Concealer — 200C,200C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394115629,We're Even Hydrating Longwear Concealer — 210W,210W / Standard,changed,34.0,23.8,34.0,34.0,False,False
+2026-11-26,Fenty Beauty,41959394148397,We're Even Hydrating Longwear Concealer — 220W,220W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394181165,We're Even Hydrating Longwear Concealer — 225N,225N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394213933,We're Even Hydrating Longwear Concealer — 230W,230W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394246701,We're Even Hydrating Longwear Concealer — 235W,235W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394279469,We're Even Hydrating Longwear Concealer — 240N,240N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394312237,We're Even Hydrating Longwear Concealer — 250W,250W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394377773,We're Even Hydrating Longwear Concealer — 260N,260N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394410541,We're Even Hydrating Longwear Concealer — 265W,265W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394541613,We're Even Hydrating Longwear Concealer — 280C,280C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394574381,We're Even Hydrating Longwear Concealer — 290W,290W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394607149,We're Even Hydrating Longwear Concealer — 295W,295W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394639917,We're Even Hydrating Longwear Concealer — 300N,300N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394672685,We're Even Hydrating Longwear Concealer — 310W,310W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394705453,We're Even Hydrating Longwear Concealer — 315W,315W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394738221,We're Even Hydrating Longwear Concealer — 330W,330W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394770989,We're Even Hydrating Longwear Concealer — 335W,335W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394803757,We're Even Hydrating Longwear Concealer — 345C,345C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394836525,We're Even Hydrating Longwear Concealer — 350C,350C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394869293,We're Even Hydrating Longwear Concealer — 360W,360W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394902061,We're Even Hydrating Longwear Concealer — 370N,370N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394934829,We're Even Hydrating Longwear Concealer — 385W,385W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959394967597,We're Even Hydrating Longwear Concealer — 390C,390C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395000365,We're Even Hydrating Longwear Concealer — 400N,400N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395033133,We're Even Hydrating Longwear Concealer — 410W,410W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395065901,We're Even Hydrating Longwear Concealer — 420W,420W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395098669,We're Even Hydrating Longwear Concealer — 425W,425W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395131437,We're Even Hydrating Longwear Concealer — 430W,430W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395262509,We're Even Hydrating Longwear Concealer — 440W,440W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395295277,We're Even Hydrating Longwear Concealer — 445N,445N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395328045,We're Even Hydrating Longwear Concealer — 450N,450N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959395688493,We're Even Hydrating Longwear Concealer — 470W,470W / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959398408237,We're Even Hydrating Longwear Concealer — 480N,480N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959400538157,We're Even Hydrating Longwear Concealer — 485C,485C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959400570925,We're Even Hydrating Longwear Concealer — 490N,490N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959400603693,We're Even Hydrating Longwear Concealer — 495C,495C / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,41959400636461,We're Even Hydrating Longwear Concealer — 498N,498N / Standard,changed,34.0,23.8,34.0,34.0,True,True
+2026-11-26,Fenty Beauty,42004578861101,Lip Sav’rs Lip Care Essentials Bundle,Default Title,changed,59.0,45.0,,65.0,True,True
+2026-11-26,Fenty Beauty,42012234743853,Fenty Treatz Hydrating + Strengthening Lip Oil — Barbados Cherry,Barbados Cherry,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,42012235464749,Fenty Treatz Hydrating + Strengthening Lip Oil — Kalahari Melon,Kalahari Melon,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,42015345606701,Plush Puddin' Intensive Recovery Lip Mask — Kalahari Melon,Kalahari Melon,changed,24.0,15.6,,24.0,True,True
+2026-11-26,Fenty Beauty,42015346458669,Plush Puddin' Intensive Recovery Lip Mask — Vanilla,Vanilla,changed,24.0,15.6,,24.0,True,True
+2026-11-26,Fenty Beauty,42038389571629,Double Gloss Moisturizing Must-Haves Bundle,Default Title,changed,47.0,33.0,,48.0,True,True
+2026-11-26,Fenty Beauty,42078266556461,Cookies N Clean Whipped Clay Intensive Pore + Blackhead Face Scrub,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,42078266884141,Demi'glow Light-Diffusing Highlighter — Yum Rum,Yum Rum,changed,20.0,14.0,40.0,20.0,False,False
+2026-11-26,Fenty Beauty,42078267113517,Precision Highlighter Brush 135,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,42078267146285,Foundation Brush 145,Default Title,changed,36.0,21.6,,36.0,True,True
+2026-11-26,Fenty Beauty,42078267211821,Soft'lit Naturally Luminous Longwear Foundation — 100,100,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267244589,Soft'lit Naturally Luminous Longwear Foundation — 110,110,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267277357,Soft'lit Naturally Luminous Longwear Foundation — 120,120,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267310125,Soft'lit Naturally Luminous Longwear Foundation — 125,125,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267375661,Soft'lit Naturally Luminous Longwear Foundation — 130,130,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267408429,Soft'lit Naturally Luminous Longwear Foundation — 140,140,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267441197,Soft'lit Naturally Luminous Longwear Foundation — 150,150,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267473965,Soft'lit Naturally Luminous Longwear Foundation — 160,160,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267506733,Soft'lit Naturally Luminous Longwear Foundation — 170,170,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267539501,Soft'lit Naturally Luminous Longwear Foundation — 175,175,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267572269,Soft'lit Naturally Luminous Longwear Foundation — 185,185,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267605037,Soft'lit Naturally Luminous Longwear Foundation — 190,190,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267637805,Soft'lit Naturally Luminous Longwear Foundation — 200,200,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267703341,Soft'lit Naturally Luminous Longwear Foundation — 210,210,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267736109,Soft'lit Naturally Luminous Longwear Foundation — 220,220,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267801645,Soft'lit Naturally Luminous Longwear Foundation — 225,225,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267867181,Soft'lit Naturally Luminous Longwear Foundation — 230,230,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267899949,Soft'lit Naturally Luminous Longwear Foundation — 235,235,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267932717,Soft'lit Naturally Luminous Longwear Foundation — 240,240,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078267998253,Soft'lit Naturally Luminous Longwear Foundation — 250,250,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268063789,Soft'lit Naturally Luminous Longwear Foundation — 260,260,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268096557,Soft'lit Naturally Luminous Longwear Foundation — 265,265,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268129325,Soft'lit Naturally Luminous Longwear Foundation — 280,280,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268162093,Soft'lit Naturally Luminous Longwear Foundation — 290,290,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268194861,Soft'lit Naturally Luminous Longwear Foundation — 295,295,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268227629,Soft'lit Naturally Luminous Longwear Foundation — 300,300,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268293165,Soft'lit Naturally Luminous Longwear Foundation — 310,310,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268325933,Soft'lit Naturally Luminous Longwear Foundation — 315,315,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268358701,Soft'lit Naturally Luminous Longwear Foundation — 330,330,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268391469,Soft'lit Naturally Luminous Longwear Foundation — 335,335,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268424237,Soft'lit Naturally Luminous Longwear Foundation — 345,345,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268457005,Soft'lit Naturally Luminous Longwear Foundation — 350,350,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268489773,Soft'lit Naturally Luminous Longwear Foundation — 360,360,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268522541,Soft'lit Naturally Luminous Longwear Foundation — 370,370,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268555309,Soft'lit Naturally Luminous Longwear Foundation — 385,385,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268588077,Soft'lit Naturally Luminous Longwear Foundation — 390,390,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268620845,Soft'lit Naturally Luminous Longwear Foundation — 400,400,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268653613,Soft'lit Naturally Luminous Longwear Foundation — 410,410,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268719149,Soft'lit Naturally Luminous Longwear Foundation — 420,420,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268751917,Soft'lit Naturally Luminous Longwear Foundation — 425,425,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268784685,Soft'lit Naturally Luminous Longwear Foundation — 430,430,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268817453,Soft'lit Naturally Luminous Longwear Foundation — 440,440,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268850221,Soft'lit Naturally Luminous Longwear Foundation — 445,445,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268882989,Soft'lit Naturally Luminous Longwear Foundation — 450,450,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268915757,Soft'lit Naturally Luminous Longwear Foundation — 470,470,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268948525,Soft'lit Naturally Luminous Longwear Foundation — 480,480,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078268981293,Soft'lit Naturally Luminous Longwear Foundation — 485,485,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078269046829,Soft'lit Naturally Luminous Longwear Foundation — 490,490,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078269079597,Soft'lit Naturally Luminous Longwear Foundation — 495,495,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42078269145133,Soft'lit Naturally Luminous Longwear Foundation — 498,498,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42102929686573,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Fenty Fresh Shimmering,Fenty Fresh Shimmering / Standard,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,42113726447661,The Richer One Moisture Repair Deep Conditioner,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,42113727004717,The Gelly Type Strong Hold Gel,Default Title,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42113727135789,The Controlling Type Hair-Thickening Edge Control Gel,Default Title,changed,19.0,13.3,,19.0,True,True
+2026-11-26,Fenty Beauty,42113727332397,The Side Stick 3-in-1 Edge Styling Tool,Default Title,changed,19.0,13.3,,19.0,True,True
+2026-11-26,Fenty Beauty,42113727430701,The Protection Posse Instant Damage Repair Treatment + Heat Protectant Set,Default Title,changed,25.0,15.0,,25.0,True,True
+2026-11-26,Fenty Beauty,42113727561773,The Maintenance Crew Universal Start'r Kit,Default Title,changed,49.0,34.3,,49.0,True,True
+2026-11-26,Fenty Beauty,42113727692845,Hydra Vizor Refillable Case,Default Title,changed,5.0,3.5,,5.0,True,True
+2026-11-26,Fenty Beauty,42113727823917,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 1,1,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113727954989,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 2,2,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113727987757,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 3,3,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728086061,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 4,4,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728249901,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 5,5,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728380973,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 6,6,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728446509,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 7,7,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728512045,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 8,8,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728610349,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 9,9,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728741421,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill — 10,10,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728806957,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 1,1,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113728872493,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 2,2,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729134637,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 3,3,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729298477,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 4,4,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729364013,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 5,5,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729560621,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 6,6,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729626157,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 7,7,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729658925,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 8,8,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729691693,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 9,9,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42113729855533,Hydra Vizor Huez Tinted Moisturizer Broad Spectrum Mineral SPF 30 Sunscreen Refill (EU) — 10,10,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,42128109142061,Gloss Bomb Stix High-Shine Gloss Stick — Blaz'd Donut,Blaz'd Donut,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109174829,Gloss Bomb Stix High-Shine Gloss Stick — Two'Lip Kiss,Two'Lip Kiss,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109207597,Gloss Bomb Stix High-Shine Gloss Stick — Fenty Glow,Fenty Glow,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109240365,Gloss Bomb Stix High-Shine Gloss Stick — Is it Fu$$y,Is it Fu$$y,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109273133,Gloss Bomb Stix High-Shine Gloss Stick — High'Biscus,High'Biscus,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109305901,Gloss Bomb Stix High-Shine Gloss Stick — RiRi,RiRi,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109338669,Gloss Bomb Stix High-Shine Gloss Stick — Sorta Selfi$h,Sorta Selfi$h,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109371437,Gloss Bomb Stix High-Shine Gloss Stick — Sp'ice Cold,Sp'ice cold,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109404205,Gloss Bomb Stix High-Shine Gloss Stick — Hot Chocolit,Hot Chocolit,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109436973,Gloss Bomb Stix High-Shine Gloss Stick — The MVP,The MVP,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109469741,Gloss Bomb Stix High-Shine Gloss Stick — Black'r Berry,Black'r Berry,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,42128109502509,Trace'd Out Longwear Waterproof Pencil Lip Liner — The MVP,The MVP,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109535277,Trace'd Out Longwear Waterproof Pencil Lip Liner — RiRi,RiRi,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109568045,Trace'd Out Longwear Waterproof Pencil Lip Liner — Rubbabandz,Rubbabandz,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109600813,Trace'd Out Longwear Waterproof Pencil Lip Liner — Satin Panty,Satin Panty,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109633581,Trace'd Out Longwear Waterproof Pencil Lip Liner — Brown'd Out,Brown'd Out,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109666349,Trace'd Out Longwear Waterproof Pencil Lip Liner — Coal Blooded,Coal Blooded,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109699117,Trace'd Out Longwear Waterproof Pencil Lip Liner — Thugz Blush Too,Thugz Blush Too,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109731885,Trace'd Out Longwear Waterproof Pencil Lip Liner — Extra Thigh,Extra Thigh,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109764653,Trace'd Out Longwear Waterproof Pencil Lip Liner — I Woodn't,I Woodn't,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42128109797421,Trace'd Out Longwear Waterproof Pencil Lip Liner — Pnut Butta,Pnut Butta,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,42138730364973,Fenty Eau de Parfum Notebook,Default Title,changed,5.0,3.5,,5.0,True,True
+2026-11-26,Fenty Beauty,42145386364973,Double the Lux Moisture Barrier Lip Balm Bundle,Default Title,changed,32.0,22.0,,32.0,True,True
+2026-11-26,Fenty Beauty,42234864336941,Fenty Treatz Hydrating + Strengthening Lip Oil — Black Cherry,Black Cherry,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,42234865418285,Fenty Treatz Hydrating + Strengthening Lip Oil — Dragon Fruit,Dragon Fruit,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,42234865877037,Plush Puddin' Intensive Recovery Lip Mask — Barbados Cherry,Barbados Cherry,changed,24.0,15.6,,24.0,True,True
+2026-11-26,Fenty Beauty,42234881179693,Glitty Lid Shimmer Liquid Eyeliner — Bronze All Ova Collection: Boozy Bronze,Boozy Bronze,changed,24.0,16.8,,24.0,False,False
+2026-11-26,Fenty Beauty,42234881212461,Glitty Lid Shimmer Liquid Eyeliner — Bronze All Ova Collection: Ritzy Rose,Ritzy Rose,changed,24.0,16.8,,24.0,False,False
+2026-11-26,Fenty Beauty,42396560326701,Hydra Vizor Huez SPF 30 Refillable Tinted Moisturizer Set,Default Title,changed,49.0,34.0,,49.0,True,True
+2026-11-26,Fenty Beauty,42490871971885,The Oversized Scrunchie,Default Title,changed,12.0,8.4,,12.0,True,True
+2026-11-26,Fenty Beauty,42599826423853,Fenty Eau de Parfum,Mini,changed,95.0,66.5,,95.0,True,True
+2026-11-26,Fenty Beauty,42657503969325,Moisture Repair the Maintenance Crew Full-Size Bundle,Default Title,changed,133.0,93.1,,133.0,True,True
+2026-11-26,Fenty Beauty,42825794125869,Fenty Cheeks Suede Powder Blush — Petal Poppin’,Petal Poppin’,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794322477,Fenty Cheeks Suede Powder Blush — Sundress Szn,Sundress Szn,changed,28.0,19.6,,28.0,False,False
+2026-11-26,Fenty Beauty,42825794486317,Fenty Cheeks Suede Powder Blush — Lolly Poppy,Lolly Poppy,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794551853,Fenty Cheeks Suede Powder Blush — Summertime Wine,Summertime Wine,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794617389,Fenty Cheeks Suede Powder Blush — Bakin’ Cakez,Bakin’ Cakez,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794682925,Fenty Cheeks Suede Powder Blush — Daiquiri Dip,Daiquiri Dip,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794715693,Fenty Cheeks Suede Powder Blush — Riri,Riri,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794748461,Fenty Cheeks Suede Powder Blush — Wattabrat,Wattabrat,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794781229,Fenty Cheeks Suede Powder Blush — Tutu Turnt,Tutu Turnt,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794813997,Fenty Cheeks Suede Powder Blush — Drama Clas$$,Drama Clas$$,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794912301,Fenty Cheeks Suede Powder Blush — Bubbleband$,Bubbleband$,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794945069,Fenty Cheeks Suede Powder Blush — Tahiti Teaze,Tahiti Teaze,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825794977837,Fenty Cheeks Suede Powder Blush — Just A Crush,Just A Crush,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825795010605,Fenty Cheeks Suede Powder Blush — Brickkkk,Brickkkk,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,42825795043373,Blush Brush 155,Default Title,changed,34.0,20.4,,34.0,True,True
+2026-11-26,Fenty Beauty,42825795141677,Fenty Parfum Solid Fragrance,Default Title,changed,68.0,47.6,,68.0,True,True
+2026-11-26,Fenty Beauty,42855461290029,Fenty Eau De Parfum Travel Set + Refills,Full Set,changed,95.0,66.5,,95.0,True,True
+2026-11-26,Fenty Beauty,42855461322797,Fenty Eau De Parfum Travel Set + Refills,Refill Set,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,42890523639853,Butta Drop Body Care Bundle,Default Title,changed,70.0,57.0,,82.0,True,True
+2026-11-26,Fenty Beauty,42890578788397,Gloss Bomb Stix Gloss Stick + Trace'd Out Lip Liner Bundle,Default Title,changed,47.0,35.0,,51.0,True,True
+2026-11-26,Fenty Beauty,42892172525613,"Build Your Own Lip Care, Liner + Gloss Bomb Bundle",Default Title,changed,54.0,44.0,,,True,True
+2026-11-26,Fenty Beauty,42892274171949,Build Your Own 5-Piece Gloss Bomb Set,Default Title,changed,105.0,87.0,,,True,True
+2026-11-26,Fenty Beauty,42904345378861,Lil Butta Dropz Mini Shimmering Whipped Oil Body Cream Trio,Default Title,changed,59.0,41.3,,59.0,True,True
+2026-11-26,Fenty Beauty,42904345542701,Fenty Eau de Parfum 75ML + Scented Ceramic Gift Set,Default Title,changed,140.0,98.0,,140.0,True,True
+2026-11-26,Fenty Beauty,42907921481773,Hella Thicc Volumizing Mascara — Cuz I'm Black,Cuz I'm Black / Mini,changed,13.0,9.1,,13.0,True,True
+2026-11-26,Fenty Beauty,42907985379373,Build Your Own 3-Piece Fenty Skin Start'rs Bundle,Default Title,changed,102.0,83.0,,,True,True
+2026-11-26,Fenty Beauty,42945672675373,We're Even Hydrating Longwear Concealer — 100C,100C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945700626477,We're Even Hydrating Longwear Concealer — 110W,110W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945724645421,We're Even Hydrating Longwear Concealer — 120N,120N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945737818157,We're Even Hydrating Longwear Concealer — 125C,125C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945751449645,We're Even Hydrating Longwear Concealer — 130W,130W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945762000941,We're Even Hydrating Longwear Concealer — 140N,140N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945764753453,We're Even Hydrating Longwear Concealer — 150N,150N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945769701421,We're Even Hydrating Longwear Concealer — 160W,160W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945789034541,We're Even Hydrating Longwear Concealer — 170C,170C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945796702253,We're Even Hydrating Longwear Concealer — 175W,175W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945798897709,We're Even Hydrating Longwear Concealer — 185C,185C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945802141741,We're Even Hydrating Longwear Concealer — 190W,190W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945806729261,We're Even Hydrating Longwear Concealer — 200C,200C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945822064685,We're Even Hydrating Longwear Concealer — 210W,210W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42945825833005,We're Even Hydrating Longwear Concealer — 220W,220W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946507604013,We're Even Hydrating Longwear Concealer — 225N,225N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946518843437,We're Even Hydrating Longwear Concealer — 230W,230W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946519171117,We're Even Hydrating Longwear Concealer — 235W,235W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946520514605,We're Even Hydrating Longwear Concealer — 240N,240N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946520907821,We're Even Hydrating Longwear Concealer — 250W,250W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946520973357,We're Even Hydrating Longwear Concealer — 260N,260N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946521202733,We're Even Hydrating Longwear Concealer — 265W,265W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946521301037,We're Even Hydrating Longwear Concealer — 280C,280C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946521825325,We're Even Hydrating Longwear Concealer — 290W,290W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946521989165,We're Even Hydrating Longwear Concealer — 295W,295W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946522873901,We're Even Hydrating Longwear Concealer — 300N,300N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946523103277,We're Even Hydrating Longwear Concealer — 310W,310W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946523168813,We're Even Hydrating Longwear Concealer — 315W,315W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946530672685,We're Even Hydrating Longwear Concealer — 330W,330W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946530705453,We're Even Hydrating Longwear Concealer — 335W,335W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946530869293,We're Even Hydrating Longwear Concealer — 345C,345C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946531131437,We're Even Hydrating Longwear Concealer — 350C,350C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946531229741,We're Even Hydrating Longwear Concealer — 360W,360W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946531328045,We're Even Hydrating Longwear Concealer — 370N,370N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946531524653,We're Even Hydrating Longwear Concealer — 385W,385W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946532048941,We're Even Hydrating Longwear Concealer — 390C,390C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946532311085,We're Even Hydrating Longwear Concealer — 400N,400N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946532933677,We're Even Hydrating Longwear Concealer — 410W,410W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946533425197,We're Even Hydrating Longwear Concealer — 420W,420W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946533818413,We're Even Hydrating Longwear Concealer — 425W,425W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946533883949,We're Even Hydrating Longwear Concealer — 430W,430W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946534408237,We're Even Hydrating Longwear Concealer — 440W,440W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946534735917,We're Even Hydrating Longwear Concealer — 445N,445N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946536144941,We're Even Hydrating Longwear Concealer — 450N,450N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946537652269,We're Even Hydrating Longwear Concealer — 470W,470W / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946537881645,We're Even Hydrating Longwear Concealer — 480N,480N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946537979949,We're Even Hydrating Longwear Concealer — 485C,485C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946538471469,We're Even Hydrating Longwear Concealer — 490N,490N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946538537005,We're Even Hydrating Longwear Concealer — 495C,495C / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42946538766381,We're Even Hydrating Longwear Concealer — 498N,498N / Mini,changed,16.0,11.2,16.0,16.0,True,True
+2026-11-26,Fenty Beauty,42954226237485,Build Your Own SPF Moisturizer + Foundation Bundle,Default Title,changed,79.0,65.0,,,True,True
+2026-11-26,Fenty Beauty,42960645226541,Build Your Own 3-Piece Complexion Bundle,Default Title,changed,110.0,90.0,,,True,True
+2026-11-26,Fenty Beauty,42960773087277,Build Your Own Blush + Brush Bundle,Default Title,changed,53.0,43.0,,,True,True
+2026-11-26,Fenty Beauty,42976696565805,Build Your Own Fenty Face 4-Piece Bundle,Default Title,changed,129.0,105.0,,,True,True
+2026-11-26,Fenty Beauty,42985090973741,The Homecurl Curl-Defining Cream,Standard,changed,34.0,23.8,,34.0,True,True
+2026-11-26,Fenty Beauty,42985108045869,The Comeback Kid Instant Damage Repair Treatment Bond Builder,Standard,changed,38.0,22.8,,38.0,True,True
+2026-11-26,Fenty Beauty,42985113288749,The Protective Type Frizz-Smoothing Heat Protectant Styling Cream,Standard,changed,31.0,21.7,,31.0,True,True
+2026-11-26,Fenty Beauty,43010317385773,Hydra’Reset Intensive Recovery Glycerin Hand Mask,Mini,changed,14.0,9.8,,14.0,False,False
+2026-11-26,Fenty Beauty,43010325315629,Instant Reset Brightening Overnight Recovery Gel-Cream with Niacinamide + Kalahari Melon Oil,Mini,changed,30.0,19.5,,30.0,True,True
+2026-11-26,Fenty Beauty,43010327216173,Instant Reset Brightening Overnight Recovery Gel-Cream with Niacinamide + Kalahari Melon Oil,Refill,changed,41.0,26.65,,41.0,False,False
+2026-11-26,Fenty Beauty,43017782362157,Thicc N Smooth Rich Peptide Eye Cream,Default Title,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,43029266268205,Build Your Own The Maintenance Crew Haircare Bundle,Default Title,changed,116.0,95.0,,,True,True
+2026-11-26,Fenty Beauty,43042385494061,The Homecurl Curl-Defining Cream,Mini,changed,18.0,12.6,,18.0,True,True
+2026-11-26,Fenty Beauty,43042385559597,The Protective Type Frizz-Smoothing Heat Protectant Styling Cream,Mini,changed,17.0,11.9,,17.0,True,True
+2026-11-26,Fenty Beauty,43042385625133,The Comeback Kid Instant Damage Repair Treatment Bond Builder,Mini,changed,19.0,13.3,,19.0,True,True
+2026-11-26,Fenty Beauty,43052553076781,Build Your Own Body Care + Fragrance Bundle,Default Title,changed,69.0,52.0,,,True,True
+2026-11-26,Fenty Beauty,43052725960749,Fenty Eau de Parfum Small + Travel Spray Gift Set,10ml + 30ml,changed,99.0,69.3,,99.0,True,True
+2026-11-26,Fenty Beauty,43052725993517,Fenty Eau de Parfum Small + Travel Spray Gift Set,10ml + 6ml,changed,42.0,29.4,,42.0,True,True
+2026-11-26,Fenty Beauty,43097403850797,Build Your Own Holiday Glow Bundle,Default Title,changed,101.0,82.0,,,True,True
+2026-11-26,Fenty Beauty,43097500155949,Build Your Own Gift Bundle,Default Title,changed,79.0,64.0,,,True,True
+2026-11-26,Fenty Beauty,43097735757869,Gloss Bomb Stix High-Shine Gloss Stick — Shimmering C U In Maui,Shimmering C U In Maui,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43097735823405,Gloss Bomb Stix High-Shine Gloss Stick — Shimmering Fu$$y,Shimmering Fu$$y,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43097735888941,Gloss Bomb Stix High-Shine Gloss Stick — Shimmering Fenty Glow,Shimmering Fenty Glow,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43097735954477,Gloss Bomb Stix High-Shine Gloss Stick — Shimmering Hot Chocolit,Shimmering Hot Chocolit,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43097736020013,Gloss Bomb Stix High-Shine Gloss Stick — Shimmering Flamingo Fling,Shimmering Flamingo Fling,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43097736085549,Gloss Bomb Stix High-Shine Gloss Stick — Shimmering Icy Amethy$t,Icy Amethy$t,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43097736151085,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — Fu$$y,Fu$$y,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43097736216621,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — Fenty Glow,Fenty Glow,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737068589,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — Razzberry Jamz,Razzberry Jamz,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737134125,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — Miss Jellyfish,Miss Jellyfish,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737199661,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — Rose Amber,Rose Amber,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737265197,Hella Extra Mascara-Boosting Lash Primer,Default Title,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43097737297965,Hella Thicc Volumizing Mascara — Let'z Be Blunt,Let'z Be Blunt,changed,22.0,15.4,,22.0,True,True
+2026-11-26,Fenty Beauty,43097737330733,Shadowstix Longwear Eyeshadow Stick — Diamond Veil How Many Carats?!,How Many Carats?!,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737363501,Shadowstix Longwear Eyeshadow Stick — Diamond Veil Champ'ion,Champ'ion,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737461805,Shadowstix Longwear Eyeshadow Stick — Diamond Veil Miss Pri$$y,Miss Pri$$y,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,43097737560109,Cherry Dub BHA Toner with Salicylic Acid + Aloe Juice,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,43097737625645,Fenty Parfum Hair + Body Mist,Default Title,changed,53.0,37.1,,53.0,True,True
+2026-11-26,Fenty Beauty,43119435186221,Gloss Bomb Ice Cooling Lip Luminizer — Berry Jelly,Berry Jelly,changed,26.0,15.6,,26.0,True,True
+2026-11-26,Fenty Beauty,43119435251757,Gloss Bomb Ice Cooling Lip Luminizer —Melon Chillz,Melon Chillz,changed,26.0,15.6,,26.0,True,True
+2026-11-26,Fenty Beauty,43119435284525,Gloss Bomb Ice Cooling Lip Luminizer — Cucum'brrr,Cucum'brrr,changed,26.0,15.6,,26.0,True,True
+2026-11-26,Fenty Beauty,43119435317293,Gloss Bomb Ice Cooling Lip Luminizer — Ice'd Pineapple,Ice'd Pineapple,changed,26.0,15.6,,26.0,True,True
+2026-11-26,Fenty Beauty,43125346140205,Build Your Own Perfume + Free Gift Bundle,Default Title,changed,94.0,77.0,,,True,True
+2026-11-26,Fenty Beauty,43160415273005,Butta Drop Hydrating Body Milk — Fenty Fresh,Fenty Fresh / Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,43160415305773,Butta Drop Hydrating Body Milk — Fenty Fresh,Fenty Fresh / Value Size Refill,changed,60.0,42.0,,60.0,True,True
+2026-11-26,Fenty Beauty,43181769818157,Fenty Eau de Parfum,Travel,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,43184235413549,Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,Mini,changed,18.0,11.7,,18.0,True,True
+2026-11-26,Fenty Beauty,43202870738989,Body Lava Body Luminizer — Oyster Pearlz,Oyster Pearlz,changed,59.0,41.3,,59.0,False,False
+2026-11-26,Fenty Beauty,43202870804525,Body Lava Body Luminizer — Who Needs Clothes?!,Who Needs Clothes?!,changed,59.0,41.3,,59.0,True,True
+2026-11-26,Fenty Beauty,43202871066669,Body Lava Body Luminizer — Hold My Trophy,Hold My Trophy,changed,59.0,41.3,,59.0,False,False
+2026-11-26,Fenty Beauty,43202871164973,Body Lava Body Luminizer — Penny Drop,Penny Drop,changed,59.0,41.3,,59.0,False,False
+2026-11-26,Fenty Beauty,43223391109165,Build Your Own Prime + Set Bundle,Default Title,changed,99.0,81.0,,,True,True
+2026-11-26,Fenty Beauty,43245770309677,Trace'd Out Longwear Waterproof Pencil Lip Liner — Apri'caught,Apri'caught,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43245786726445,Trace'd Out Longwear Waterproof Pencil Lip Liner — Bubble-tini,Bubble-tini,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43245787512877,Trace'd Out Longwear Waterproof Pencil Lip Liner — They So Vine,They So Vine,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43245788135469,Trace'd Out Longwear Waterproof Pencil Lip Liner — Bored Heaux,Bored Heaux,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43245789085741,Trace'd Out Longwear Waterproof Pencil Lip Liner — Whiskey,Whiskey,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43245868122157,Lil' Gloss Bomb Trio Mini Lip Gloss Set,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,43248700489773,Slick-Back Styling Essentials,Default Title,changed,57.0,46.0,,66.0,True,True
+2026-11-26,Fenty Beauty,43248723787821,Drip + Sparkle Body Cream and Highlighter Duo,Default Title,changed,75.0,62.0,,75.0,True,True
+2026-11-26,Fenty Beauty,43259505180717,Dew N Plump Hydrating Nectar Glow Serum,Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,43260936486957,Gloss Bomb Heat Universal Lip Luminizer + Plumper Deluxe Sample — Hot Chocolit,Default Title,changed,1.5,1.05,,1.5,True,True
+2026-11-26,Fenty Beauty,43260936781869,Cherry Dub BHA Toner with Salicylic Acid + Aloe Juice Deluxe Sample,Default Title,changed,1.5,1.05,,1.5,True,True
+2026-11-26,Fenty Beauty,43269114298413,Mini Killawatt Freestyle Highlighter — Hu$tla Baby,Hu$tla Baby,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,43269114527789,Mini Killawatt Freestyle Highlighter — Trophy Wife,Trophy Wife,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,43269114855469,Mini Killawatt Freestyle Highlighter — Fire Crystal,Fire Crystal,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,43269115150381,Mini Killawatt Freestyle Highlighter — Moscow Mule,Moscow Mule,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,43269264670765,Stunna Lip Paint Longwear Fluid Lip Color — Unveil,Unveil / Standard,changed,29.0,18.85,,29.0,True,True
+2026-11-26,Fenty Beauty,43269267914797,Stunna Lip Paint Longwear Fluid Lip Color — Uncuffed,Uncuffed / Standard,changed,29.0,18.85,,29.0,True,True
+2026-11-26,Fenty Beauty,43269268865069,Stunna Lip Paint Longwear Fluid Lip Color — Uncensored,Uncensored / Standard,changed,29.0,20.3,,29.0,True,True
+2026-11-26,Fenty Beauty,43285561901101,Line + Gloss 3-Piece Lip Bundle,Default Title,changed,63.0,51.0,,74.0,True,True
+2026-11-26,Fenty Beauty,43304040759341,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — Fro$ted Bunz,Fro$ted Bunz,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43304042364973,Gloss Bomb Oil Luminizing Lip Oil 'N Gloss — $uperfine $uga,$upafine $uga,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43329755086893,Set it Down Superfine Blurring Setting Powder — Lavender,Lavender,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772060717,Set it Down Superfine Blurring Setting Powder — Strawberry Milk,Strawberry Milk,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772126253,Set it Down Superfine Blurring Setting Powder — Butter,Butter,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772224557,Set it Down Superfine Blurring Setting Powder — Banana,Banana,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772257325,Set it Down Superfine Blurring Setting Powder — Cashew,Cashew,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772519469,Set it Down Superfine Blurring Setting Powder — Honey,Honey,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772683309,Set it Down Superfine Blurring Setting Powder — Cinnamon,Cinnamon,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329772912685,Set it Down Superfine Blurring Setting Powder — Mocha,Mocha,changed,39.0,25.35,,39.0,True,True
+2026-11-26,Fenty Beauty,43329784512557,Plush Puddin' Intensive Recovery Lip Mask — Cacao,Cacao,changed,24.0,15.6,,24.0,True,True
+2026-11-26,Fenty Beauty,43329807319085,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Vanilla Dream,Vanilla Dream / Vanilla Dream Glow-Up Collection,changed,46.0,32.2,,46.0,False,False
+2026-11-26,Fenty Beauty,43330329215021,Mini Match Stix Duo Contour + Highlighter Set  — Deep,Deep,changed,22.5,15.75,,22.5,True,True
+2026-11-26,Fenty Beauty,43330329247789,Mini Match Stix Duo Contour + Highlighter Set  — Medium,Medium,changed,22.5,15.75,,22.5,True,True
+2026-11-26,Fenty Beauty,43330329313325,Mini Match Stix Duo Contour + Highlighter Set  — Medium Deep,Medium Deep,changed,22.5,15.75,,22.5,True,True
+2026-11-26,Fenty Beauty,43330329346093,Mini Match Stix Duo Contour + Highlighter Set  — Light Medium,Light Medium,changed,22.5,15.75,,22.5,True,True
+2026-11-26,Fenty Beauty,43330329378861,Mini Match Stix Duo Contour + Highlighter Set — Light,Light,changed,22.5,15.75,,22.5,True,True
+2026-11-26,Fenty Beauty,43357323296813,Gloss Bomb Stackz Layered Lip Luminizer — Unicorn Blizzard,Default Title,changed,24.0,15.6,,24.0,True,True
+2026-11-26,Fenty Beauty,43357324083245,Allover Body Mist — Green Raspberry,Default Title,changed,35.0,24.5,,35.0,True,True
+2026-11-26,Fenty Beauty,43357324116013,Lil' Mists Mini Body Mist Duo,Default Title,changed,30.0,21.0,,30.0,True,True
+2026-11-26,Fenty Beauty,43357324148781,Rich Dip Bubble Bath — Vanilla Flowers,Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,43357324181549,"Rich Dip Bubble Bath — Hey, Bouquet",Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,43357324214317,Body Start'r Set Mini Body Trio,Default Title,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,43357324247085,Big Dripp'r Body Wash — Vanilla Flowers,Default Title,changed,30.0,21.0,,30.0,True,True
+2026-11-26,Fenty Beauty,43357324279853,"Big Dripp'r Body Wash — Hey, Bouquet",Default Title,changed,30.0,21.0,,30.0,True,True
+2026-11-26,Fenty Beauty,43363043246125,Build Your Own Lip Liner + Gloss Bomb Bundle,Default Title,changed,40.0,32.0,,,True,True
+2026-11-26,Fenty Beauty,43368148271149,Gloss Bomb Universal Lip Luminizer — Grape Splash,Grape Splash,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,43398514311213,Fenty Treatz Hydrating + Strengthening Lip Oil — Coconut,Coconut,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,43398519390253,Fenty Treatz Hydrating + Strengthening Lip Oil — Passion Fruit,Passion Fruit,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,43439662170157,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Fenty Fresh,Fenty Fresh / Mini,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,43439668985901,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Fenty Fresh,Fenty Fresh / Refill,changed,40.0,28.0,,40.0,True,True
+2026-11-26,Fenty Beauty,43439710306349,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Fenty Fresh Shimmering,Fenty Fresh Shimmering / Refill,changed,40.0,28.0,,40.0,False,False
+2026-11-26,Fenty Beauty,43441181425709,Pro Filt'r Soft Matte Longwear Foundation — #100,#100 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441189847085,Pro Filt'r Soft Matte Longwear Foundation — #110,#110 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441192501293,Pro Filt'r Soft Matte Longwear Foundation — #120,#120 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441194270765,Pro Filt'r Soft Matte Longwear Foundation — #125,#125 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441197252653,Pro Filt'r Soft Matte Longwear Foundation — #130,#130 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441198596141,Pro Filt'r Soft Matte Longwear Foundation — #140,#140 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441201053741,Pro Filt'r Soft Matte Longwear Foundation — #150,#150 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441201545261,Pro Filt'r Soft Matte Longwear Foundation — #160,#160 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441203347501,Pro Filt'r Soft Matte Longwear Foundation — #170,#170 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441204232237,Pro Filt'r Soft Matte Longwear Foundation — #175,#175 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441204822061,Pro Filt'r Soft Matte Longwear Foundation — #185,#185 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441205346349,Pro Filt'r Soft Matte Longwear Foundation — #190,#190 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441205674029,Pro Filt'r Soft Matte Longwear Foundation — #200,#200 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441212882989,Pro Filt'r Soft Matte Longwear Foundation — #210,#210 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441213734957,Pro Filt'r Soft Matte Longwear Foundation — #220,#220 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441216749613,Pro Filt'r Soft Matte Longwear Foundation — #225,#225 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441218584621,Pro Filt'r Soft Matte Longwear Foundation — #230,#230 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441220485165,Pro Filt'r Soft Matte Longwear Foundation — #235,#235 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43441221533741,Pro Filt'r Soft Matte Longwear Foundation — #240,#240 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43441225170989,Pro Filt'r Soft Matte Longwear Foundation — #250,#250 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451656077357,Pro Filt'r Soft Matte Longwear Foundation — #260,#260 / Mini,changed,18.0,9.0,,18.0,True,True
+2026-11-26,Fenty Beauty,43451656798253,Pro Filt'r Soft Matte Longwear Foundation — #265,#265 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451658240045,Pro Filt'r Soft Matte Longwear Foundation — #280,#280 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451660697645,Pro Filt'r Soft Matte Longwear Foundation — #290,#290 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451672854573,Pro Filt'r Soft Matte Longwear Foundation — #295,#295 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451674165293,Pro Filt'r Soft Matte Longwear Foundation — #300,#300 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451694940205,Pro Filt'r Soft Matte Longwear Foundation — #310,#310 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451699462189,Pro Filt'r Soft Matte Longwear Foundation — #315,#315 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451762606125,Pro Filt'r Soft Matte Longwear Foundation — #330,#330 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451765227565,Pro Filt'r Soft Matte Longwear Foundation — #335,#335 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451765915693,Pro Filt'r Soft Matte Longwear Foundation — #345,#345 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451768700973,Pro Filt'r Soft Matte Longwear Foundation — #350,#350 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451810938925,Pro Filt'r Soft Matte Longwear Foundation — #360,#360 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451812970541,Pro Filt'r Soft Matte Longwear Foundation — #370,#370 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451817066541,Pro Filt'r Soft Matte Longwear Foundation — #385,#385 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451820638253,Pro Filt'r Soft Matte Longwear Foundation — #390,#390 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451820965933,Pro Filt'r Soft Matte Longwear Foundation — #400,#400 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451821293613,Pro Filt'r Soft Matte Longwear Foundation — #410,#410 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451821686829,Pro Filt'r Soft Matte Longwear Foundation — #420,#420 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451822899245,Pro Filt'r Soft Matte Longwear Foundation — #425,#425 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451823947821,Pro Filt'r Soft Matte Longwear Foundation — #430,#430 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451825258541,Pro Filt'r Soft Matte Longwear Foundation — #440,#440 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451826176045,Pro Filt'r Soft Matte Longwear Foundation — #445,#445 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451828371501,Pro Filt'r Soft Matte Longwear Foundation — #450,#450 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451830140973,Pro Filt'r Soft Matte Longwear Foundation — #470,#470 / Mini,changed,18.0,12.6,,18.0,False,False
+2026-11-26,Fenty Beauty,43451831189549,Pro Filt'r Soft Matte Longwear Foundation — #480,#480 / Mini,changed,18.0,9.0,,18.0,True,False
+2026-11-26,Fenty Beauty,43451833221165,Pro Filt'r Soft Matte Longwear Foundation — #485,#485 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43451834630189,Pro Filt'r Soft Matte Longwear Foundation — #490,#490 / Mini,changed,18.0,9.0,,18.0,True,True
+2026-11-26,Fenty Beauty,43451835547693,Pro Filt'r Soft Matte Longwear Foundation — #495,#495 / Mini,changed,18.0,9.0,,18.0,True,True
+2026-11-26,Fenty Beauty,43451835744301,Pro Filt'r Soft Matte Longwear Foundation — #498,#498 / Mini,changed,18.0,9.0,,18.0,False,False
+2026-11-26,Fenty Beauty,43471172304941,Gloss Bomb Universal Lip Luminizer — Mango Margz,Mango Margz,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,43471176269869,Bright Fix Instant Brightening + Blurring Powder — Lavender,Lavender,changed,39.0,23.4,,39.0,True,True
+2026-11-26,Fenty Beauty,43471176892461,Bright Fix Instant Brightening + Blurring Powder — Rose Quartz,Rose Quartz,changed,39.0,23.4,,39.0,True,True
+2026-11-26,Fenty Beauty,43471177613357,Bright Fix Instant Brightening + Blurring Powder — Banana,Banana,changed,39.0,23.4,,39.0,True,True
+2026-11-26,Fenty Beauty,43471177777197,Bright Fix Instant Brightening + Blurring Powder — Peach,Peach,changed,39.0,23.4,,39.0,True,True
+2026-11-26,Fenty Beauty,43471177809965,Bright Fix Instant Brightening + Blurring Powder — Cinnamon,Cinnamon,changed,39.0,23.4,,39.0,True,True
+2026-11-26,Fenty Beauty,43471183478829,Bright Fix Instant Brightening + Blurring Powder — Pumpkin,Pumpkin,changed,39.0,23.4,,39.0,True,True
+2026-11-26,Fenty Beauty,43818067361837,Gloss Bomb Universal Lip Luminizer — Rose Amber,Rose Amber,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,43818693689389,Gloss Bomb Universal Lip Luminizer — Gimme Space,Gimme Space,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,43821523009581,Fine Linez Lash Line-Enhancing Eyeliner — Cuz I'm Black,Cuz I'm Black,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,43822408171565,Stunna Lip Paint Longwear Fluid Lip Color — Uninterested,Uninterested / Standard,changed,29.0,20.3,,29.0,True,True
+2026-11-26,Fenty Beauty,43822957625389,Stunna Lip Paint Longwear Fluid Lip Color — RiRi,RiRi / Standard,changed,29.0,20.3,,29.0,True,True
+2026-11-26,Fenty Beauty,43823041937453,Stunna Lip Paint Longwear Fluid Lip Color — Unlawful,Unlawful / Standard,changed,29.0,20.3,,29.0,True,True
+2026-11-26,Fenty Beauty,43962632896557,Diamond Bomb All-Over Diamond Veil — Lavender Luv'r,Lavender Luv'r,changed,43.0,30.1,,43.0,True,True
+2026-11-26,Fenty Beauty,43962639777837,Diamond Bomb All-Over Diamond Veil — Trophy Wife,Trophy Wife,changed,43.0,30.1,,43.0,True,True
+2026-11-26,Fenty Beauty,43962644103213,Diamond Bomb All-Over Diamond Veil — Pink Ice,Pink Ice,changed,43.0,30.1,,43.0,True,True
+2026-11-26,Fenty Beauty,43962646134829,Gloss Bomb Stix High-Shine Gloss Stick — How Many Carats?!,How Many Carats?!,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,43962675396653,Body Lava Body Luminizer — How Many Carats?!,How Many Carats?!,changed,59.0,41.3,,59.0,False,False
+2026-11-26,Fenty Beauty,43967657476141,The Clear Thinker Clarifying Shampoo,Standard,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,43967657508909,The Clear Thinker Clarifying Shampoo,Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,43967664095277,The Water Boi Reparative Leave-In Detangling Conditioner Spray,Standard,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,43967664128045,The Water Boi Reparative Leave-In Detangling Conditioner Spray,Mini,changed,18.0,12.6,,18.0,True,True
+2026-11-26,Fenty Beauty,43967667306541,The Rich One Moisture Repair Conditioner,Standard,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,43967667339309,The Rich One Moisture Repair Conditioner,Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,43967668813869,The Rich One Moisture Repair Shampoo,Standard,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,43967668846637,The Rich One Moisture Repair Shampoo,Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,43980295798829,Fenty Eau de Parfum 75ML + Decorative Logo Tray,Default Title,changed,140.0,98.0,,140.0,True,True
+2026-11-26,Fenty Beauty,44008494628909,Build Your Own Highlighter + Brush Bundle,Default Title,changed,64.0,52.0,,,True,True
+2026-11-26,Fenty Beauty,44008498626605,Build Your Own Bronzer + Brush Bundle,Default Title,changed,64.0,52.0,,,True,True
+2026-11-26,Fenty Beauty,44008502493229,Build Your Own Concealer + Brush or Sponge Bundle,Default Title,changed,51.0,42.0,,,True,True
+2026-11-26,Fenty Beauty,44008574943277,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Fu$$Y Heat,Fu$$Y Heat / Mini,changed,17.0,11.9,,17.0,True,True
+2026-11-26,Fenty Beauty,44008575860781,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Hot Cherry,Hot Cherry / Mini,changed,17.0,11.9,,17.0,True,True
+2026-11-26,Fenty Beauty,44010714300461,Gloss Bomb Universal Lip Luminizer — Glass Slipper,Glass Slipper / Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,44010718724141,Gloss Bomb Universal Lip Luminizer — RiRi,RiRi / Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,44010724917293,Gloss Bomb Universal Lip Luminizer — Fenty Glow,Fenty Glow / Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,44010726621229,Gloss Bomb Universal Lip Luminizer — Hot Chocolit,Hot Chocolit / Mini,changed,16.0,11.2,,16.0,False,True
+2026-11-26,Fenty Beauty,44010734616621,Gloss Bomb Universal Lip Luminizer — Fu$$y,Fu$$y / Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,44010737565741,Gloss Bomb Universal Lip Luminizer — $weet Mouth,$weet Mouth / Mini,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,44016112992301,Velvet Nightz Travel Bag,Default Title,changed,12.0,8.4,,12.0,True,True
+2026-11-26,Fenty Beauty,44018464456749,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Salted Caramel,Regular / Salted Caramel,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,44018465996845,Plush Puddin' Intensive Recovery Lip Mask — Salted Caramel,Salted Caramel,changed,24.0,15.6,,24.0,True,True
+2026-11-26,Fenty Beauty,44060251160621,Invisimatte Instant Setting + Blotting Powder,Standard,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44060251193389,Invisimatte Instant Setting + Blotting Powder,Mini,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,44063129075757,You Mist Makeup-Extending Setting Spray,Standard,changed,33.0,23.1,,33.0,True,True
+2026-11-26,Fenty Beauty,44063129108525,You Mist Makeup-Extending Setting Spray,Mini,changed,17.0,11.9,,17.0,True,True
+2026-11-26,Fenty Beauty,44179497418797,Diamond Bomb All-Over Diamond Veil — How Many Carats?!,How Many Carats?! / Standard,changed,43.0,30.1,,43.0,True,True
+2026-11-26,Fenty Beauty,44185040420909,Diamond Bomb All-Over Diamond Veil — How Many Carats?!,How Many Carats?! / Mini,changed,21.0,14.7,,21.0,True,True
+2026-11-26,Fenty Beauty,44190375706669,Hella Thicc Volumizing Mascara — Elec'Trip Blue,Elec'Trip Blue,changed,22.0,15.4,,22.0,True,True
+2026-11-26,Fenty Beauty,44208927375405,Diamond Bomb All-Over Diamond Veil — Rosé Rave,Rosé Rave,changed,43.0,30.1,,43.0,True,True
+2026-11-26,Fenty Beauty,44208935436333,Match Stix Glow Skinstick — Purrrl,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,44211972014125,"Fenty Skin Body Bath, Shower + Mist Full-Size Bundle",Default Title,changed,88.0,72.0,,103.0,True,True
+2026-11-26,Fenty Beauty,44216944033837,"Allover Body Mist — Hey, Bouquet",Hey Bouquet / Standard,changed,35.0,24.5,,35.0,True,True
+2026-11-26,Fenty Beauty,44216944099373,"Allover Body Mist — Hey, Bouquet",Hey Bouquet / Mini,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,44216944197677,Allover Body Mist — Vanilla Flowers,Vanilla Flowers / Standard,changed,35.0,24.5,,35.0,True,True
+2026-11-26,Fenty Beauty,44216944230445,Allover Body Mist — Vanilla Flowers,Vanilla Flowers / Mini,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,44225974501421,The Daily Duo Mini Cleanser + Toner Serum Duo,Default Title,changed,29.0,20.3,,29.0,True,True
+2026-11-26,Fenty Beauty,44235058151469,Fine Linez Lash Line-Enhancing Eyeliner — In Big Truffle,In Big Truffle,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235059331117,Fine Linez Lash Line-Enhancing Eyeliner — Wet T-Shirt,Wet T-Shirt,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235059789869,Fine Linez Lash Line-Enhancing Eyeliner — Don't Clay Me,Don't Clay Me,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235059953709,Fine Linez Lash Line-Enhancing Eyeliner — The Navy,The Navy,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235060019245,Fine Linez Lash Line-Enhancing Eyeliner — RiRi,RiRi,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235060248621,Fine Linez Lash Line-Enhancing Eyeliner — Wink O' Pink,Wink O'Pink,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235060281389,Fine Linez Lash Line-Enhancing Eyeliner — Naked Beach,Naked Beach,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235060314157,Fine Linez Lash Line-Enhancing Eyeliner — Vanilla Killa,Vanilla Killa,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44235060379693,Fine Linez Lash Line-Enhancing Eyeliner — Ca$h You,Ca$h You,changed,26.0,16.9,,26.0,True,True
+2026-11-26,Fenty Beauty,44306794217517,Gloss Bomb Universal Lip Luminizer — Cherry Amor,Cherry Amor,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,44340974092333,Mini Killawatt Freestyle Highlighter — Wattab!*%#,Wattab!*%#,changed,20.0,14.0,,20.0,False,False
+2026-11-26,Fenty Beauty,44353806893101,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Vanilla Dream,Vanilla Dream / Vanilla Dream,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,44357185077293,"Lil’ Glossy, Lil’ Thicc 2-Piece Lip + Eye Duo",Default Title,changed,21.0,14.7,,21.0,True,True
+2026-11-26,Fenty Beauty,44357189566509,"Fenty Fam Faves 3-Piece Eye, Lip + Highlighter Set",Default Title,changed,38.0,22.8,,38.0,True,True
+2026-11-26,Fenty Beauty,44425244737581,Dew N Plump Hydrating Nectar Face Mist,Default Title,changed,34.0,23.8,,34.0,True,True
+2026-11-26,Fenty Beauty,44425246769197,Dew N Plump Intense Hydration Slushie Overnight Face Mask,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,44473483853869,Day + Night Hydrating Routine: Dew N Plump Serum + Slushie Mask,Default Title,changed,69.0,51.0,,74.0,True,True
+2026-11-26,Fenty Beauty,44479257149485,"Bold Eye Essentials Bundle: Eyeshadow Stick, Gel Eyeliner + Mascara",Default Title,changed,63.0,51.0,,74.0,True,True
+2026-11-26,Fenty Beauty,44482056060973,"Big On Hydration: Milky Toner, Face Mask + Lip Mask Trio",Default Title,changed,86.0,68.0,,98.0,True,True
+2026-11-26,Fenty Beauty,44491111399469,The Comeback Kid Instant Damage Repair Treatment Bond Builder,Jumbo,changed,56.0,39.2,,56.0,True,True
+2026-11-26,Fenty Beauty,44492945621037,Matte 'N Shimmer Eyeshadow Stick Duo,Default Title,changed,44.0,36.0,44.0,52.0,True,True
+2026-11-26,Fenty Beauty,44506717290541,Grip Trip Hydrating + Plumping Primer,Standard,changed,37.0,25.9,,37.0,True,True
+2026-11-26,Fenty Beauty,44506717323309,Grip Trip Hydrating + Plumping Primer,Mini,changed,22.0,15.4,,22.0,True,True
+2026-11-26,Fenty Beauty,44506723647533,Grip Trip Mattifying + Blurring Primer,Standard,changed,37.0,25.9,,37.0,True,True
+2026-11-26,Fenty Beauty,44506723680301,Grip Trip Mattifying + Blurring Primer,Mini,changed,22.0,15.4,,22.0,True,True
+2026-11-26,Fenty Beauty,44514327494701,Butta Drop Hydrating Body Milk — Vanilla Dream,Vanilla Dream / Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,44514523152429,Fenty Treatz Hydrating + Strengthening Lip Oil — Cacao,Cacao,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,44539477622829,Mini Killawatt Freestyle Highlighter — Wattabrat,Wattabrat,changed,20.0,14.0,,20.0,False,False
+2026-11-26,Fenty Beauty,44539493056557,Gloss Bomb Universal Lip Luminizer — Wattab!*%#,Wattab!*%#,changed,23.0,16.1,,23.0,False,False
+2026-11-26,Fenty Beauty,44539493515309,Fairy Bomb Wattacrush Heart Shimmer Puff,Default Title,changed,29.0,20.3,,29.0,False,False
+2026-11-26,Fenty Beauty,44539497709613,Trace'd Out Longwear Waterproof Pencil Lip Liner — Rose Amber,Rose Amber,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,44539498364973,Gloss Bomb Stix High-Shine Gloss Stick — Rose Amber,Rose Amber,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,44539512487981,Shake ’N Play Buildable Liquid Blush — Bow’peep,Bow’Peep,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,44539513307181,Shake ’N Play Buildable Liquid Blush — Fiya Papaya,Fiya Papaya,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,44539513503789,Shake ’N Play Buildable Liquid Blush — Wild’berry Whip,Wild’Berry Whip,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,44539514093613,Shake ’N Play Buildable Liquid Blush — Quit Wine’in,Quit Wine'in,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,44539514159149,Shake ’N Play Buildable Liquid Blush — Violet Vice$,Violet Vice$,changed,28.0,19.6,,28.0,True,True
+2026-11-26,Fenty Beauty,44539514585133,Extra Fu$$y Lip Liner + Mini Lip Luminizer Duo,Default Title,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,44539713323053,Fenty Eau De Parfum Travel Spray + Mini Body Crème Set,Default Title,changed,53.0,37.1,61.0,53.0,True,True
+2026-11-26,Fenty Beauty,44551010582573,The Imposter Invisi-Boost Volumizing Dry Shampoo Powder,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,44551011827757,The Flashy One 9-In-1 Treatment Oil,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,44551037943853,Guava Goodiez Hydrating Lip + Body Duo,Default Title,changed,35.0,24.5,,35.0,True,True
+2026-11-26,Fenty Beauty,44551047020589,Allover Body Mist — Tropic Trip,Default Title,changed,35.0,24.5,,35.0,True,True
+2026-11-26,Fenty Beauty,44565759918125,Cherry Dub Pore Purify'r Gel Cleanser with Niacinamide + Aloe Juice,Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,44565759950893,Cherry Dub Pore Purify'r Gel Cleanser with Niacinamide + Aloe Juice,Refill,changed,59.0,41.3,,59.0,True,True
+2026-11-26,Fenty Beauty,44607039111213,Build Your Own Setting Powder + Brush Bundle,Default Title,changed,63.0,51.0,,,True,True
+2026-11-26,Fenty Beauty,44607297781805,Stunna Lip Paint Longwear Fluid Lip Color — Unbutton,Unbutton,changed,29.0,20.3,,29.0,True,True
+2026-11-26,Fenty Beauty,44636030861357,Oil Control Duo: Invisimatte Instant Setting + Blotting Powder And The Imposter Invisi-boost Volumizing Dry Shampoo,Default Title,changed,45.0,36.0,,52.0,True,True
+2026-11-26,Fenty Beauty,44676465754157,Gloss Bomb Stix High-Shine Gloss Stick — Birthday Suit,Birthday Suit,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,44676472340525,Gloss Bomb Stix High-Shine Gloss Stick — Lu$t Bunny,Lu$t Bunny,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,44676474830893,Gloss Bomb Stix High-Shine Gloss Stick — $weet Whiskey,$weet Whiskey,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,44676498292781,Gloss Bomb Stix High-Shine Gloss Stick — Midnight Ballerina,Midnight Ballerina,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,44750984904749,Gloss Bomb Universal Lip Luminizer — Wattabrat,Wattabrat,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,44758689153069,Poppin’ Liquid Blush + Gloss Duo,Default Title,changed,45.0,35.0,,51.0,True,True
+2026-11-26,Fenty Beauty,44778047373357,Fenty Beauty Oversized Unisex Hoodie — XS,XS,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44778199777325,Fenty Beauty Oversized Unisex Hoodie — S,S,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44778203906093,Fenty Beauty Oversized Unisex Hoodie — M,M,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44778204004397,Fenty Beauty Oversized Unisex Hoodie — L,L,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44778204921901,Fenty Beauty Oversized Unisex Hoodie — XL,XL,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44778205544493,Fenty Beauty Oversized Unisex Hoodie — XXL,XXL,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44778207936557,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — XXL,XXL,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44778208624685,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — XL,XL,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44778209804333,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — L,L,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44778211049517,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — M,M,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44778211147821,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — S,S,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44778211278893,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — XS,XS,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44786765299757,Brown'd Pout Lip Liner + Mini Lip Plumper Duo,Default Title,changed,26.0,15.6,,26.0,True,True
+2026-11-26,Fenty Beauty,44795413856301,Set + Refresh Face Mist Duo: You Mist Setting Spray + Dew N Plump Face Mist,Default Title,changed,60.0,46.0,60.0,67.0,True,True
+2026-11-26,Fenty Beauty,44807558987821,Fenty Beauty Oversized Unisex Hoodie and Sweatpant Set,Default Title,changed,183.0,128.0,,183.0,True,True
+2026-11-26,Fenty Beauty,44808002469933,"Dew N Plump Trio: Dew N Plump Face Mist, Serum + Slushie Mask",Default Title,changed,92.0,75.0,,108.0,True,True
+2026-11-26,Fenty Beauty,44815981903917,Fenty Beauty Oversized Unisex Hoodie — XXXL,XXXL,changed,98.0,68.6,,98.0,True,True
+2026-11-26,Fenty Beauty,44815985377325,Fenty Beauty Oversized Unisex Straight Leg Sweatpants — XXXL,XXXL,changed,85.0,59.5,,85.0,True,True
+2026-11-26,Fenty Beauty,44858238042157,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Suga Cookie,Suga Cookie,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858246955053,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Biscotti,Biscotti,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858247020589,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Brown Butt’r,Brown Butt’r,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858247446573,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Hot Fudge,Hot Fudge,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858247512109,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Churro Twist,Churro Twist,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858249510957,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Maple Glaze,Maple Glaze,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858249609261,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Sweet Truffle,Sweet Truffle,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858249740333,Sun Stalk’r Soufflé Pressed Mousse Cream Bronzer — Coffee Toffee,Coffee Toffee,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,44858252394541,Seamless Cream Blending Brush 185,Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,44865322025005,Fenty Skin Travel-Size Start'r Set For Balanced Skin,US,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,44865322057773,"Fenty Skin Travel-Size Start'r Set For Balanced Skin — EU, SPF 20",EU,changed,44.0,30.8,,44.0,True,True
+2026-11-26,Fenty Beauty,44865323499565,Fenty Skin Travel-Size Start'r Set For Combo + Oily Skin,US,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,44865323728941,"Fenty Skin Travel-Size Start'r Set For Combo + Oily Skin — EU, SPF 20",EU,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,66710858760237,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Amber Bouquet,Amber Bouquet,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,66710860103725,Butta Drop Hydrating Body Milk — Amber Bouquet,Amber Bouquet / Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,66710904143917,Gloss Bomb Universal Lip Luminizer — Pink Dragonfly,Pink Dragonfly,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,66782585782317,Build Your Own 4-Piece Summer Glow Bundle,Default Title,changed,115.0,94.0,,,True,True
+2026-11-26,Fenty Beauty,66853221204013,"Mix, Match + Stack: Build Your Own Body Bundle",Default Title,changed,95.0,77.0,,,True,True
+2026-11-26,Fenty Beauty,66869424881709,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 106N,106N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869424914477,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 116C,116C,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869424980013,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 136N,136N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425012781,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 126N,126N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425045549,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 146N,146N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425111085,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 156C,156C,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425143853,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 176C,176C,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425209389,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 166N,166N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425274925,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 186N,186N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425340461,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 196N,196N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425373229,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 206W,206W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425438765,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 236N,236N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425504301,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 226W,226W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425537069,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 246N,246N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425569837,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 216N,216N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425635373,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 256W,256W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425668141,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 266C,266C,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425733677,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 276N,276N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425766445,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 286W,286W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425831981,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 296N,296N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425864749,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 306N,306N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425930285,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 316N,316N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869425963053,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 336N,336N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426028589,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 326N,326N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426061357,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 346N,346N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426126893,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 366N,366N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426192429,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 376N,376N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426225197,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 356W,356W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426323501,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 386W,386W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426389037,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 396N,396N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426421805,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 406N,406N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426487341,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 416W,416W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426520109,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 426W,426W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426552877,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 436N,436N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426618413,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 446N,446N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426651181,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 456W,456W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426716717,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 466W,466W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426749485,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 476N,476N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426847789,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 486W,486W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426913325,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 496W,496W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869426978861,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 506W,506W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427011629,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 516W,516W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427077165,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 536W,536W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427175469,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 526N,526N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427208237,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 546N,546N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427273773,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 556N,556N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427306541,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 566N,566N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427372077,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 576W,576W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427404845,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 586W,586W,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66869427437613,Pro Filt'r Fluid Flex Natural Matte Longwear Foundation — 596N,596N,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,66872393400365,Sun-Kissed Flush Bronzer + Blush Duo,Default Title,changed,59.0,46.0,,67.0,True,True
+2026-11-26,Fenty Beauty,66872666521645,Blurred + Bronzed Skin Tint and Bronzer Duo,Default Title,changed,69.0,56.0,,80.0,True,True
+2026-11-26,Fenty Beauty,66916437721133,Butta Drop Hydrating Body Milk — Vanilla Flowers,Vanilla Flowers / Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,66916457381933,"Butta Drop Hydrating Body Milk — Hey, Bouquet",Hey Bouquet / Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,66917226610733,A$AP Rocky Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen + Collector’s Case,Standard / US,changed,45.0,29.25,,45.0,True,True
+2026-11-26,Fenty Beauty,66917249482797,A$AP Rocky Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 20 Sunscreen + Collector's Case,Standard / EU,changed,45.0,29.25,,45.0,True,True
+2026-11-26,Fenty Beauty,66917406801965,Lux Balm Hydrating Moisture Barrier Lip Balm — Coconut,Coconut,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,66917461753901,Lux Balm Hydrating Moisture Barrier Lip Balm — Barbados Cherry,Barbados Cherry,changed,16.0,11.2,,16.0,True,True
+2026-11-26,Fenty Beauty,66927805071405,Gloss Bomb Burst Color-Intensifying Lip Luminizer — Pink Blink,Pink Blink,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,66927809757229,Gloss Bomb Burst Color-Intensifying Lip Luminizer — In a Jam,In a Jam,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,66931615367213,Invisimatte Instant Setting + Blotting Powder,Refill,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,66957543047213,Fenty Skin Total Cleans’r Remove-It-All Cleanser,Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,66957543079981,Fenty Skin Total Cleans’r Remove-It-All Cleanser,Refill,changed,59.0,41.3,,59.0,True,True
+2026-11-26,Fenty Beauty,66962628444205,Fenty Skin Total Cleans’r Remove-It-All Cleanser,Mini,changed,17.0,11.9,,17.0,True,True
+2026-11-26,Fenty Beauty,66965966979117,Pro Filt'r Fluid Flex Foundation Shade Sample —456W,456W,changed,4.0,4.0,,,False,True
+2026-11-26,Fenty Beauty,66965978087469,A$AP Rocky x Fenty Skin Hair Roller Keychain,Default Title,changed,2.0,1.3,,2.0,True,True
+2026-11-26,Fenty Beauty,66965992407085,A$AP Rocky x Fenty Skin Hair Roller Case,Default Title,changed,3.0,1.95,,3.0,True,True
+2026-11-26,Fenty Beauty,66986580377645,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Candy Lava,Candy Lava,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,66986619830317,Gloss Bomb Heat Universal Lip Luminizer + Plumper — Purple Pepp'r,Purple Pepp'r,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,66986639065133,Gloss Bomb Heat Universal Lip Luminizer + Plumper — RiRi Heat,RiRi Heat,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,67029458780205,Smoke ’N Diamonds Eye Trio,Default Title,changed,48.0,33.6,,48.0,True,True
+2026-11-26,Fenty Beauty,67029467463725,Gloss Bomb Stix High-Shine Gloss Stick — Caviar Crystalz,Caviar Crystalz,changed,27.0,18.9,,27.0,True,True
+2026-11-26,Fenty Beauty,67029582643245,Gloss Bomb Universal Lip Luminizer — Caviar Crystalz,Caviar Crystalz,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,67029666693165,Gloss Bomb Universal Lip Luminizer — Diamond Milk,Diamond Milk,changed,23.0,16.1,,23.0,True,True
+2026-11-26,Fenty Beauty,67029729312813,Diamond Bomb All-Over Diamond Veil — How Many Carats?! Midnight Diamonds Collection,How Many Carats?! / Standard,changed,43.0,30.1,,43.0,True,True
+2026-11-26,Fenty Beauty,67043355852845,A$AP Rocky x Fenty Skin Collection Bundle,Default Title,changed,61.0,42.0,,64.0,True,True
+2026-11-26,Fenty Beauty,67043357622317,A$AP Rocky x Fenty Skin: Lip Balm + SPF Moisturizer Duo,Default Title,changed,61.0,40.0,,61.0,True,True
+2026-11-26,Fenty Beauty,67043599089709,A$AP Rocky x Fenty Skin: SPF Moisturizer + Exclusive Case,Default Title,changed,45.0,31.0,,48.0,True,True
+2026-11-26,Fenty Beauty,67043799859245,Midnight Diamonds Collection 5-Piece Bundle,Default Title,changed,139.0,114.0,,164.0,True,True
+2026-11-26,Fenty Beauty,67156277854253,Sun Stalk'r Instant Warmth Bronzer — Cream Tea,Cream Tea,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,67156480524333,Sun Stalk'r Instant Warmth Bronzer — Butta Bunz,Butta Bunz,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,67156681195565,Sun Stalk'r Instant Warmth Bronzer — Chai Latte,Chai Latte,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,67156755775533,Sun Stalk'r Instant Warmth Bronzer — Desert 'Em,Desert 'Em,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,67157022408749,Sun Stalk'r Instant Warmth Bronzer — Mocha Mamii,Mocha Mamii,changed,39.0,27.3,,39.0,True,True
+2026-11-26,Fenty Beauty,67157065695277,Sun Stalk'r Instant Warmth Bronzer — No Cream'r,No Cream'r,changed,38.0,26.6,,38.0,False,False
+2026-11-26,Fenty Beauty,67165205233709,Nami Matcha x Fenty Beauty | Lip Cravings Kit,Default Title,changed,70.0,49.0,,70.0,True,True
+2026-11-26,Fenty Beauty,67172877434925,Pink Links Lip Care + Cheek Trip Set,Default Title,changed,55.0,38.5,,55.0,True,True
+2026-11-26,Fenty Beauty,67207984021549,Berry Brown'd Pout Lip Liner + Gloss Stick Duo,Default Title,changed,26.0,18.2,,26.0,False,False
+2026-11-26,Fenty Beauty,67215255207981,Fluid Flex Foundation Brush 165,Default Title,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,67215850242093,Fluid Flex Foundation + Brush Bundle,Default Title,changed,75.0,58.0,,84.0,True,True
+2026-11-26,Fenty Beauty,67215893987373,The Fenty Flex Routine,Default Title,changed,121.0,95.0,,137.0,True,True
+2026-11-26,Fenty Beauty,67237665177645,Fenty Parfum Body Crème,Standard,changed,86.0,60.2,,86.0,False,False
+2026-11-26,Fenty Beauty,67237665210413,Fenty Parfum Body Crème,Mini,changed,34.0,23.8,,34.0,True,True
+2026-11-26,Fenty Beauty,67237779603501,A$AP Rocky × Fenty Skin Lux Balm Duo and Roller Keychain,Default Title,changed,32.0,22.0,,34.0,True,True
+2026-11-26,Fenty Beauty,67326431920173,Fenty Beauty x CASETiFY On-The-Go Essentials Magsafe 2-in-1 Holder,Default Title,changed,42.0,29.4,,42.0,True,True
+2026-11-26,Fenty Beauty,67326438572077,Fenty Beauty x CASETiFY Rope Crossbody Strap,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67326447681581,Fenty Beauty x CASETiFY Custom Charm Hook,Default Title,changed,14.0,9.8,,14.0,True,True
+2026-11-26,Fenty Beauty,67335791738925,Fam Faves: Soft Skin + Lips Bundle,Default Title,changed,69.0,48.3,,69.0,True,True
+2026-11-26,Fenty Beauty,67335891124269,Fam Faves: SPF Moisturizer + Lip Gloss Bundle,Default Title,changed,68.0,47.6,,68.0,True,True
+2026-11-26,Fenty Beauty,67362637381677,Pro Filt'r Fluid Flex Foundation Shade Sample,Default Title,changed,12.0,8.4,,12.0,True,True
+2026-11-26,Fenty Beauty,67437446725677,Match Stix Color Adaptive Cheek + Lip Stick — Strawberry Pop,Mini,changed,15.0,10.5,15.0,15.0,True,True
+2026-11-26,Fenty Beauty,67437649723437,Glossy Posse IX 4-Piece Lip Set,Default Title,changed,49.0,34.3,84.0,49.0,True,True
+2026-11-26,Fenty Beauty,67437701562413,Blushin' In Diamonds Liquid Blush + Highlighter Duo,Default Title,changed,35.0,24.5,49.0,35.0,True,True
+2026-11-26,Fenty Beauty,67437715652653,Lipz Like Riri 2-Piece Lip Set + Sharpener,Default Title,changed,26.0,18.2,59.0,26.0,True,True
+2026-11-26,Fenty Beauty,67437722009645,Lil Finish'rs Mini Setting Spray + Blotting Powder Duo,Default Title,changed,29.0,20.3,38.0,29.0,True,True
+2026-11-26,Fenty Beauty,67437730824237,Gloss Bomb Prismatic Lip Luminizer — Moonstone Mischief,Moonstone Mischief,changed,24.0,16.8,23.0,24.0,True,True
+2026-11-26,Fenty Beauty,67437751074861,The Fenty Beauty Lip Vault 10-Piece Lip Gloss + Liner Set,Default Title,changed,160.0,112.0,246.0,160.0,True,True
+2026-11-26,Fenty Beauty,67437844660269,Gloss Bomb Stackz Layered Lip Luminizer — Fu$$y Fusion,Default Title,changed,24.0,16.8,,24.0,True,True
+2026-11-26,Fenty Beauty,67437941817389,Fenty Treatz Hydrating + Strengthening Lip Oil — Cinnamon Sugar,Cinnamon Sugar,changed,25.0,17.5,,25.0,True,True
+2026-11-26,Fenty Beauty,67446596763693,Lil Puddin' Pots Mini Intensive Recovery Lip Mask Set,Default Title,changed,25.0,17.5,44.0,25.0,True,True
+2026-11-26,Fenty Beauty,67446626156589,Quench Kit Mini 3-Piece Hydrating Skincare Set + Bag,Default Title,changed,31.5,22.05,49.0,31.5,True,True
+2026-11-26,Fenty Beauty,67446684876845,Mini Milks Hydrating Body Milk Travel Pouch Trio,Default Title,changed,35.0,24.5,54.0,35.0,True,True
+2026-11-26,Fenty Beauty,67446854123565,Mist N Match Mini Allover Body Mist Trio,Default Title,changed,33.0,23.1,36.0,33.0,True,True
+2026-11-26,Fenty Beauty,67446944071725,Lil Dripp'rz Mini Body Wash Trio,Default Title,changed,33.0,23.1,42.0,33.0,True,True
+2026-11-26,Fenty Beauty,67447255662637,"The Driplets Mini Body Wash, Milk + Mist Set",Default Title,changed,35.0,24.5,52.0,35.0,True,True
+2026-11-26,Fenty Beauty,67448006737965,The Curly Costars Mini Moisture Repair Shampoo + Curl-Defining Cream Set,Default Title,changed,25.0,17.5,33.0,25.0,False,False
+2026-11-26,Fenty Beauty,67448077877293,The Hi-Shine Hunniez Micro Hair Oil + Full Size Lip Oil,Default Title,changed,26.0,18.2,,26.0,True,True
+2026-11-26,Fenty Beauty,67448348016685,12 Dayz of Fenty Beauty + Fenty Skin 12-Piece Advent Calendar,Default Title,changed,190.0,133.0,284.0,190.0,False,False
+2026-11-26,Fenty Beauty,67460973035565,Butta Drop Whipped Oil Body Cream with Tropical Oils + Shea Butter — Guava Getaway,Regular / Guava Getaway,changed,46.0,32.2,,46.0,True,True
+2026-11-26,Fenty Beauty,67471382216749,Build Your Own Hair Prep + Style Bundle,Default Title,changed,56.0,46.0,,,True,True
+2026-11-26,Fenty Beauty,67482737901613,Build Your Own Shampoo + Conditioner Bundle,Default Title,changed,54.0,44.0,,,True,True
+2026-11-26,Fenty Beauty,67483292860461,Heat Stylers Bundle: The Protective Type Heat Protectant Styling Cream + The Flashy One Hair Treatment Oil,Default Title,changed,54.0,44.0,,63.0,True,True
+2026-11-26,Fenty Beauty,67483803189293,Build Your Own Makeup Brush Or Sponge Bundle,Default Title,changed,94.0,77.0,,,True,True
+2026-11-26,Fenty Beauty,67484092137517,Allover Body Mist — Lil Miss Wonderful,Lil Miss Wonderful / Standard,changed,35.0,24.5,,35.0,True,True
+2026-11-26,Fenty Beauty,67484092170285,Allover Body Mist — Lil Miss Wonderful,Lil Miss Wonderful / Mini,changed,20.0,14.0,,20.0,True,True
+2026-11-26,Fenty Beauty,67486649614381,Butta Drop Hydrating Body Milk — Lil Miss Wonderful,Lil Miss Wonderful / Standard,changed,36.0,25.2,,36.0,True,True
+2026-11-26,Fenty Beauty,67510399795245,Build Your Own 3-Piece Gloss Bomb Bundle,Default Title,changed,65.0,53.0,,,True,True
+2026-11-26,Fenty Beauty,67539851673645,Dew N Plump Fresh-Sliced Hydrogel Eye Patches,Default Title,new,,32.0,,,,False
+2026-11-26,Fenty Beauty,67572713652269,Fenty Beauty x CASETiFY Ripple Case — iPhone 17 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572790657069,Fenty Beauty x CASETiFY Ripple Case — iPhone 17 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572816183341,Fenty Beauty x CASETiFY Perfect Case — iPhone 17 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572833386541,Fenty Beauty x CASETiFY Perfect Case — iPhone 17 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572845772845,Fenty Beauty x CASETiFY Perfect Case — iPhone 16 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572852097069,Fenty Beauty x CASETiFY Perfect Case — iPhone 16 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572859633709,Fenty Beauty x CASETiFY Midnight Case — iPhone 17 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572868022317,Fenty Beauty x CASETiFY Midnight Case — iPhone 17 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572873297965,Fenty Beauty x CASETiFY Midnight Case — iPhone 16 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572882079789,Fenty Beauty x CASETiFY Midnight Case — iPhone 16 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572886077485,Fenty Beauty x CASETiFY Logo Case — iPhone 17 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572891746349,Fenty Beauty x CASETiFY Logo Case — iPhone 17 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572899282989,Fenty Beauty x CASETiFY Logo Case — iPhone 16 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572906885165,Fenty Beauty x CASETiFY Logo Case — iPhone 16 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67572943552557,Fenty Beauty x CASETiFY Midnight Earbuds Case,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,67572952924205,Fenty Beauty x CASETiFY Perfect Earbuds Case,Default Title,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Fenty Beauty,67575205199917,Fenty Beauty x CASETiFY Logo Tablet Case,Default Title,changed,74.0,51.8,,74.0,True,True
+2026-11-26,Fenty Beauty,67575208673325,Fenty Beauty x CASETiFY Midnight Snappy Cardholder Stand,Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,67575216996397,Fenty Beauty x CASETiFY Perfect Snappy Cardholder Stand,Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,67575217750061,Fenty Beauty x CASETiFY Logo Snappy Cardholder Stand,Default Title,changed,38.0,26.6,,38.0,True,True
+2026-11-26,Fenty Beauty,67575316217901,The Bounce Besties Mini Leave-In Conditioner Spray + Full Size Curl-Defining Cream,Default Title,changed,37.0,25.9,,37.0,True,True
+2026-11-26,Fenty Beauty,67646681579565,"Fenty Beauty x CASETiFY: Ripple Phone Case, MagSafe Holder, Mini Gloss Bomb + Mini Invisimatte Bundle",Default Title,changed,115.0,99.0,,142.0,True,True
+2026-11-26,Fenty Beauty,67657100427309,"Fenty Beauty x CASETiFY: Perfect Phone Case, Charm Hook, Mini Gloss Bomb + Keychain Bundle",Default Title,changed,89.0,70.0,,101.0,True,True
+2026-11-26,Fenty Beauty,67657169436717,"Fenty Beauty x CASETiFY: MagSafe Holder, Gloss + Blot Bundle",Default Title,changed,70.0,54.0,,78.0,True,True
+2026-11-26,Fenty Beauty,67657182576685,Fenty Beauty x CASETiFY: Crossbody Strap + Gloss Bundle,Default Title,changed,81.0,60.0,,86.0,True,True
+2026-11-26,Fenty Beauty,67657195323437,Fenty Beauty x CASETiFY: Charm 'N Shine Gloss Bomb Bundle,Default Title,changed,35.0,25.0,,37.0,True,True
+2026-11-26,Fenty Beauty,67673775276077,Fenty Beauty x CASETiFY Perfect Case — iPhone 18 Pro,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67673791365165,Fenty Beauty x CASETiFY Perfect Case — iPhone 18 Pro Max,Default Title,changed,64.0,44.8,,64.0,True,True
+2026-11-26,Fenty Beauty,67673795887149,Fenty Beauty x CASETiFY Midnight Case — iPhone 18 Pro,Default Title,changed,64.0,44.8,,64.0,False,False
+2026-11-26,Fenty Beauty,67673799196717,Fenty Beauty x CASETiFY Midnight Case — iPhone 18 Pro Max,Default Title,changed,64.0,44.8,,64.0,False,False
+2026-11-26,Fenty Beauty,67673799688237,Fenty Beauty x CASETiFY Logo Case — iPhone 18 Pro,Default Title,changed,64.0,44.8,,64.0,False,False
+2026-11-26,Fenty Beauty,67673800900653,Fenty Beauty x CASETiFY Logo Case — iPhone 18 Pro Max,Default Title,changed,64.0,44.8,,64.0,False,False
+2026-11-26,Fenty Beauty,67782607470637,Stunna Stix Lipstick + Trace'd Out Lip Liner Bundle,Default Title,changed,40.5,45.0,,,True,True
+2026-11-26,Fenty Beauty,67798772449325,The Mista Hair + Body Fragrance Mist,Standard,changed,32.0,22.4,,32.0,True,True
+2026-11-26,Glossier,43781987565813,Deodorant Refill Stick,Glossier You,changed,18.0,18.0,,,False,True
