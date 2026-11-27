@@ -1754,3 +1754,62 @@ date,brand,variant_id,product_title,variant_title,change,price_old,price_new,com
 2026-11-26,Fenty Beauty,67782607470637,Stunna Stix Lipstick + Trace'd Out Lip Liner Bundle,Default Title,changed,40.5,45.0,,,True,True
 2026-11-26,Fenty Beauty,67798772449325,The Mista Hair + Body Fragrance Mist,Standard,changed,32.0,22.4,,32.0,True,True
 2026-11-26,Glossier,43781987565813,Deodorant Refill Stick,Glossier You,changed,18.0,18.0,,,False,True
+2026-11-27,ColourPop,33250489729106,Kiss 'N Tell,Default Title,removed,12.0,,0.0,,True,
+2026-11-27,ColourPop,40144474669138,Cool It,Default Title,changed,10.0,10.0,0.0,0.0,False,True
+2026-11-27,ColourPop,40375207002194,Calabasas,Default Title,changed,8.0,8.0,0.0,0.0,True,False
+2026-11-27,ColourPop,41239408836690,Magical Skies,Default Title,removed,74.0,,,,False,
+2026-11-27,ColourPop,41239444750418,Bright Nights,Default Title,new,,74.0,,,,True
+2026-11-27,ColourPop,42014435115090,How the Grinch Stole Christmas,Default Title,changed,25.0,25.0,,,True,False
+2026-11-27,ColourPop,42282035380306,Silver Lining,Default Title,changed,14.0,14.0,0.0,0.0,True,False
+2026-11-27,ColourPop,42282059432018,Serving Optimism,Default Title,changed,38.0,38.0,0.0,0.0,True,False
+2026-11-27,ColourPop,42368720994386,Prettiest Pink,Default Title,changed,10.0,10.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42368721027154,Like A Doll,Default Title,changed,10.0,10.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42376083701842,Pink Dreams Collection,Default Title,changed,46.0,46.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42376099004498,Babydoll Glow Bundle,Default Title,changed,17.0,17.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42376104935506,Cheek Dreams Bundle,Default Title,changed,17.0,17.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42376108965970,Dreamiest Dollface Bundle,Default Title,changed,18.0,18.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42459504738386,Eevee,Default Title,changed,12.0,12.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42459506409554,Espeon,Default Title,changed,12.0,12.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42459507163218,Umbreon,Default Title,changed,12.0,12.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42459557658706,Daybreak and Moonlight,Default Title,changed,32.0,32.0,0.0,0.0,False,True
+2026-11-27,ColourPop,42871124262994,Berry Much So,Default Title,new,,35.0,,0.0,,True
+2026-11-27,ColourPop,42926943371346,Berry Blended,Default Title,new,,74.0,,,,True
+2026-11-27,Morphe,40554221338696,Dripglass Glazed High Shine Lip Gloss,Polished Peach,changed,9.75,9.75,13.0,13.0,True,False
+2026-11-27,Morphe,40636061843528,Signature Lip Pencil,Trendsetter,changed,5.25,5.25,7.0,7.0,True,False
+2026-11-27,Morphe,41019944665160,Best Selling Signature Lip Bundle - Deep,Default Title,changed,15.75,15.75,21.0,21.0,True,False
+2026-11-27,Morphe,41051645182024,Lip Filter & Signature Lip  Bundle,Ballet / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051645706312,Lip Filter & Signature Lip  Bundle,Teddy / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051646230600,Lip Filter & Signature Lip  Bundle,Petal / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051646754888,Lip Filter & Signature Lip  Bundle,Honey / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051647279176,Lip Filter & Signature Lip  Bundle,Dearest / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051647803464,Lip Filter & Signature Lip  Bundle,Whipped / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051648327752,Lip Filter & Signature Lip  Bundle,Souffle / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051648852040,Lip Filter & Signature Lip  Bundle,Suede / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051649376328,Lip Filter & Signature Lip  Bundle,Plush / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051649900616,Lip Filter & Signature Lip  Bundle,Beret / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051650424904,Lip Filter & Signature Lip  Bundle,Haze / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051650949192,Lip Filter & Signature Lip  Bundle,Velvet / Trendsetter,changed,16.5,16.5,22.0,22.0,True,False
+2026-11-27,Morphe,41051702657096,Fully Covered Lip Bundle,Queen Bee / Ballet / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051703181384,Fully Covered Lip Bundle,Queen Bee / Teddy / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051703705672,Fully Covered Lip Bundle,Queen Bee / Petal / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051704229960,Fully Covered Lip Bundle,Queen Bee / Honey / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051704754248,Fully Covered Lip Bundle,Queen Bee / Dearest / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051705278536,Fully Covered Lip Bundle,Queen Bee / Whipped / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051705802824,Fully Covered Lip Bundle,Queen Bee / Souffle / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051706327112,Fully Covered Lip Bundle,Queen Bee / Suede / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051706851400,Fully Covered Lip Bundle,Queen Bee / Plush / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051707375688,Fully Covered Lip Bundle,Queen Bee / Beret / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051707899976,Fully Covered Lip Bundle,Queen Bee / Haze / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051708424264,Fully Covered Lip Bundle,Queen Bee / Velvet / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051708948552,Fully Covered Lip Bundle,Heat Swarm / Ballet / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051709472840,Fully Covered Lip Bundle,Heat Swarm / Teddy / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41051709997128,Fully Covered Lip Bundle,Heat Swarm / Petal / Trendsetter,changed,27.0,27.0,36.0,36.0,True,False
+2026-11-27,Morphe,41097030008904,Brown 7-Piece Lip Bundle,Default Title,changed,54.75,54.75,73.0,73.0,True,False
+2026-11-27,Morphe,41097380823112,Mocha 3-Piece Cheek & Lip Bundle,Default Title,changed,30.75,30.75,41.0,41.0,True,False
+2026-11-27,Morphe,41240375296072,Signature Lip Pencil Cult Classics Bundle,Default Title,changed,31.5,31.5,42.0,42.0,True,False
+2026-11-27,Morphe,41243370389576,Signature Lip Pencil & Dripglass Crystal Super Shine Lip Gloss Bundle,Trendsetter,changed,15.0,15.0,20.0,20.0,True,False
+2026-11-27,Fenty Beauty,35110455377965,Stunna Lip Paint Longwear Fluid Lip Color — Underdawg,Underdawg,changed,18.85,18.85,29.0,29.0,True,False
+2026-11-27,Fenty Beauty,35178860052525,Pro Filt'r Instant Retouch Concealer — #180,#180,changed,15.0,15.0,30.0,30.0,False,True
+2026-11-27,Fenty Beauty,35178864082989,Pro Filt'r Soft Matte Longwear Foundation — #350,#350 / Standard,changed,20.0,20.0,40.0,40.0,True,False
+2026-11-27,Fenty Beauty,42657503969325,Moisture Repair the Maintenance Crew Full-Size Bundle,Default Title,changed,93.1,93.1,133.0,133.0,True,False
+2026-11-27,Glossier,48285699113205,Applebaby Keychain,Default Title,new,,5.0,,,,True
